@@ -151,5 +151,26 @@ class Environment(object):
         # 计算链路带宽只需要考虑最大的
         self.bandwidth = max([self.vnfd_properties[vnf]["bandwidth"] for vnf in self.network_service])
 
+        for i in range(self.service_length):
+            cpu = self.placement[i]
+
+            if i == 0:  # service chain 中第一个vnf？还是vnf中第一个slot
+                self.link_used[cpu] += self.bandwidth
+                self.link_latency   += self.link_properties[cpu]["latency"]
+            elif cpu != self.placement[i-1]:  
+                # 如果当前cpu和上一个vnf使用的不是一个cpu，那么就需要加上它们通讯所需的链路带宽
+                self.link_used[cpu] += self.bandwidth
+                self.link_latency   += self.link_properties[cpu]["latency"]
+
+            if i == self.service_length-1:  # service chain 中最后一个
+                self.link_used[cpu] += self.bandwidth
+                self.link_latency   += self.link_properties[cpu]["latency"]
+            elif cpu != self.placement[i+1]:
+                # 与上文同理
+                self.link_used[cpu] += self.bandwidth
+                self.link_latency   += self.link_properties[cpu]["latency"]
+
+    def _computeReward(self):
+
 if __name__ == "__main__":
     pass
