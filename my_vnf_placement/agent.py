@@ -19,6 +19,6 @@ def variable_summaries(name, var, with_max_min=False):
             tf.summary.scalar('max', tf.reduce_max(var))
             tf.summary.scalar('min', tf.reduce_min(var))
 
-
+def
 if __name__ == '__main__':
     pass
