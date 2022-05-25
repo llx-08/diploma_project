@@ -1,0 +1,1000 @@
+batch: 0, network_service[batch 0]: [8 8 3 4 3 5 6 8 3 3 8 3 2 7 4 8 8 3 5 2]," placement[batch 0]: [19. 17.  3.  1. 18. 11.  8. 13. 15. 10.  7.  6.  9.  8.  5.  9. 10. 10.
+ 15.  9.]", reward: 7066.40625, lagrangian: 59592.96875, baseline: -0.04669506102800369, advantage: 59593.01544506103, penalty: 52526.5625, minibatch_loss: -178511.59375
+batch: 100, network_service[batch 0]: [8 5 4 4 3 6 8 5 3 8 4 4 1 6 5 7 8 4 4 5]," placement[batch 0]: [15.  7.  9.  8. 16.  3.  8.  8.  5.  3. 10.  6.  0. 10. 11.  3. 16.  3.
+  3.  7.]", reward: 7175.78125, lagrangian: 56997.65625, baseline: 293.89697265625, advantage: 56703.75927734375, penalty: 49821.875, minibatch_loss: -169893.3125
+batch: 200, network_service[batch 0]: [4 2 7 8 5 4 2 1 5 6 8 4 5 6 7 6 8 6 7 1]," placement[batch 0]: [ 2.  0. 19. 11. 14.  0.  1.  2. 12.  2. 12. 18.  2. 12.  8.  0.  2.  2.
+  2. 16.]", reward: 6239.84375, lagrangian: 30471.09375, baseline: 543.8228149414062, advantage: 29927.270935058594, penalty: 24231.25, minibatch_loss: -69641.3984375
+batch: 300, network_service[batch 0]: [5 4 1 2 6 5 2 1 2 1 7 1 5 7 8 8 2 4 5 5]," placement[batch 0]: [12. 11. 19. 19.  0.  0.  2. 19. 12.  0.  0.  0. 12. 10.  0.  0. 12.  0.
+  2.  2.]", reward: 5950.78125, lagrangian: 25905.46875, baseline: 702.3788452148438, advantage: 25203.089904785156, penalty: 19954.6875, minibatch_loss: -51463.9609375
+batch: 400, network_service[batch 0]: [4 8 3 5 5 4 2 3 6 6 3 1 1 2 3 6 2 4 1 6]," placement[batch 0]: [ 3. 12.  3.  0.  7.  0.  0.  6.  0.  0.  4.  2. 10.  2.  0.  6.  2.  2.
+ 12.  0.]", reward: 6046.09375, lagrangian: 24128.90625, baseline: 867.093994140625, advantage: 23261.812255859375, penalty: 18082.8125, minibatch_loss: -44935.6953125
+batch: 500, network_service[batch 0]: [7 1 5 8 3 8 3 2 4 7 5 6 5 8 7 1 8 2 6 3]," placement[batch 0]: [ 5. 15.  6. 12.  3. 12. 10. 12. 12. 10.  3.  0.  0.  0.  0.  3.  0. 10.
+  0. 13.]", reward: 5914.84375, lagrangian: 21367.96875, baseline: 1037.8406982421875, advantage: 20330.128051757812, penalty: 15453.125, minibatch_loss: -40201.8203125
+batch: 600, network_service[batch 0]: [6 7 2 4 5 5 8 7 4 4 5 7 2 3 4 6 5 4 4 7]," placement[batch 0]: [17. 10. 10. 11.  2. 10.  2.  6. 12. 10. 12.  0. 10. 12.  0.  0.  0.  2.
+ 10.  0.]", reward: 5793.75, lagrangian: 20590.625, baseline: 1203.669921875, advantage: 19386.955078125, penalty: 14796.875, minibatch_loss: -37644.7578125
+batch: 700, network_service[batch 0]: [2 2 1 2 7 6 6 6 6 1 2 2 2 7 8 3 5 8 7 7]," placement[batch 0]: [10. 12. 10. 12.  0. 10. 10. 12. 10. 10. 10.  0.  0. 10. 10.  0.  2.  0.
+  0. 10.]", reward: 5750.0, lagrangian: 19076.5625, baseline: 1374.5450439453125, advantage: 17702.017456054688, penalty: 13326.5625, minibatch_loss: -32523.47265625
+batch: 800, network_service[batch 0]: [8 3 5 8 6 5 6 2 7 2 7 4 3 6 8 1 3 6 7 2]," placement[batch 0]: [12. 12. 12. 12. 12. 11. 10. 10. 12. 11. 13.  2. 12.  0.  2. 10. 10.  2.
+ 10. 10.]", reward: 5802.34375, lagrangian: 18902.34375, baseline: 1547.0606689453125, advantage: 17355.283081054688, penalty: 13100.0, minibatch_loss: -31144.634765625
+batch: 900, network_service[batch 0]: [5 1 7 7 2 7 2 8 4 3 3 7 2 2 1 4 2 6 7 5]," placement[batch 0]: [12. 11. 12. 12. 12. 11.  4. 13. 10. 10.  0.  2.  0.  2.  2.  0. 10.  2.
+ 10. 10.]", reward: 5783.59375, lagrangian: 17289.84375, baseline: 1715.0665283203125, advantage: 15574.777221679688, penalty: 11506.25, minibatch_loss: -26041.783203125
+batch: 1000, network_service[batch 0]: [2 4 6 7 3 4 4 4 5 1 4 8 5 6 1 5 4 8 4 4]," placement[batch 0]: [11. 12. 12.  3. 12.  8.  0. 11.  2. 10. 10. 10.  0. 10.  0. 10.  2. 10.
+ 10.  2.]", reward: 5758.59375, lagrangian: 16180.46875, baseline: 1880.18017578125, advantage: 14300.28857421875, penalty: 10421.875, minibatch_loss: -22217.921875
+batch: 1100, network_service[batch 0]: [6 8 5 3 2 8 6 6 3 6 4 6 8 7 7 5 2 7 5 4]," placement[batch 0]: [ 6. 11. 11. 11. 11. 11. 11.  0.  2.  2. 12.  0. 10. 10. 10. 10.  0.  0.
+  7.  0.]", reward: 5693.75, lagrangian: 14762.5, baseline: 2040.8359375, advantage: 12721.6640625, penalty: 9068.75, minibatch_loss: -18612.26171875
+batch: 1200, network_service[batch 0]: [8 4 6 2 7 7 2 7 6 1 1 1 6 3 4 3 6 1 3 4]," placement[batch 0]: [11. 11. 11. 11. 11. 12. 12. 12.  2.  0.  9. 10. 12. 10.  0.  2. 10. 10.
+ 10.  2.]", reward: 5687.5, lagrangian: 13835.9375, baseline: 2192.480224609375, advantage: 11643.457275390625, penalty: 8148.4375, minibatch_loss: -15047.330078125
+batch: 1300, network_service[batch 0]: [2 3 2 4 7 4 3 2 1 8 4 3 6 4 7 7 4 4 7 2]," placement[batch 0]: [11. 11. 12. 11. 12. 12. 12.  0. 10.  0.  0.  0.  2.  2.  0. 10.  0. 10.
+  0. 10.]", reward: 5565.625, lagrangian: 14043.75, baseline: 2340.345458984375, advantage: 11703.404541015625, penalty: 8478.125, minibatch_loss: -13967.6181640625
+batch: 1400, network_service[batch 0]: [7 5 6 3 1 1 6 8 6 6 1 6 8 5 5 7 3 5 1 4]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 11. 12.  0.  0.  5.  0. 10. 10. 10. 10. 10.  0.
+  0.  0.]", reward: 5659.375, lagrangian: 13425.0, baseline: 2488.462890625, advantage: 10936.537109375, penalty: 7765.625, minibatch_loss: -12535.91796875
+batch: 1500, network_service[batch 0]: [3 7 3 6 1 4 2 2 2 4 8 1 5 7 4 8 5 1 1 1]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3. 12. 12.  2.  2. 10.  2.  0.  0.  0.  1.
+ 10.  2.]", reward: 5780.46875, lagrangian: 12496.09375, baseline: 2636.39111328125, advantage: 9859.70263671875, penalty: 6715.625, minibatch_loss: -11611.7373046875
+batch: 1600, network_service[batch 0]: [2 3 1 8 4 3 6 6 8 3 8 3 7 7 3 1 3 7 7 1]," placement[batch 0]: [11. 11. 11. 12. 11.  2. 10. 12.  3.  3.  2. 12.  0.  0.  0. 10. 10. 10.
+  0. 10.]", reward: 5774.21875, lagrangian: 12350.78125, baseline: 2783.076904296875, advantage: 9567.704345703125, penalty: 6576.5625, minibatch_loss: -10625.283203125
+batch: 1700, network_service[batch 0]: [4 5 1 4 5 5 5 3 3 2 2 2 8 7 4 1 6 6 3 2]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12. 12.  2. 12.  3.  3. 10.  0.  0. 10.  0.  0.
+  1.  0.]", reward: 5835.15625, lagrangian: 12657.03125, baseline: 2929.918212890625, advantage: 9727.113037109375, penalty: 6821.875, minibatch_loss: -10187.18359375
+batch: 1800, network_service[batch 0]: [8 2 2 5 6 3 1 8 3 7 6 8 7 2 6 2 1 3 7 7]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12. 12.  2.  2.  2.  0.  2. 10.  1.  2. 10.  2.
+  2. 10.]", reward: 5828.90625, lagrangian: 12408.59375, baseline: 3076.207275390625, advantage: 9332.386474609375, penalty: 6579.6875, minibatch_loss: -9829.390625
+batch: 1900, network_service[batch 0]: [6 6 7 8 7 7 6 2 6 3 4 4 3 5 2 4 5 6 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12.  2.  0.  2.  0.  0.  0. 10. 10.  1.  3. 10.
+ 10. 10.]", reward: 5685.15625, lagrangian: 11269.53125, baseline: 3221.953369140625, advantage: 8047.577880859375, penalty: 5584.375, minibatch_loss: -8109.93896484375
+batch: 2000, network_service[batch 0]: [1 1 5 1 1 7 8 1 2 4 5 4 2 1 8 5 1 3 7 5]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12. 12.  3.  2.  3.  2.  3. 10.  0.  0.  0.  0.
+ 10. 10.]", reward: 5680.46875, lagrangian: 12022.65625, baseline: 3369.363525390625, advantage: 8653.292724609375, penalty: 6342.1875, minibatch_loss: -8455.818359375
+batch: 2100, network_service[batch 0]: [6 1 4 3 7 4 6 6 1 8 6 1 2 5 3 4 1 2 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12. 12.  0.  3.  3.  3.  0. 10.  3. 10.  0. 10.
+  0. 10.]", reward: 5797.65625, lagrangian: 11205.46875, baseline: 3516.91015625, advantage: 7688.55859375, penalty: 5407.8125, minibatch_loss: -7280.6474609375
+batch: 2200, network_service[batch 0]: [5 4 5 6 5 2 4 4 3 4 1 4 6 3 8 1 4 6 5 8]," placement[batch 0]: [11. 11. 12. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0. 10. 10. 10. 10.
+ 10. 10.]", reward: 5796.09375, lagrangian: 11803.90625, baseline: 3663.371337890625, advantage: 8140.534912109375, penalty: 6007.8125, minibatch_loss: -7692.7548828125
+batch: 2300, network_service[batch 0]: [1 3 8 6 8 7 7 7 7 6 4 7 5 4 2 5 4 5 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12. 12.  2.  0.  2.  2.  0. 10. 10.  1.  0. 10.
+ 10.  0.]", reward: 5782.8125, lagrangian: 11298.4375, baseline: 3809.9990234375, advantage: 7488.4384765625, penalty: 5515.625, minibatch_loss: -6801.00927734375
+batch: 2400, network_service[batch 0]: [6 7 6 5 4 2 4 6 1 1 8 4 8 6 8 1 3 4 1 6]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  3.  3. 10.  0.  0.  0. 12.  0. 10.
+ 10.  0.]", reward: 5757.8125, lagrangian: 10959.375, baseline: 3955.941650390625, advantage: 7003.433349609375, penalty: 5201.5625, minibatch_loss: -6275.669921875
+batch: 2500, network_service[batch 0]: [1 5 8 6 2 3 2 3 3 2 3 5 3 1 3 2 1 1 7 4]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  2. 10.  2.  3.  0. 10.  0. 10.  0.
+ 10. 10.]", reward: 5806.25, lagrangian: 10845.3125, baseline: 4100.67529296875, advantage: 6744.63720703125, penalty: 5039.0625, minibatch_loss: -5560.625
+batch: 2600, network_service[batch 0]: [7 7 1 6 6 8 7 2 1 2 1 6 4 5 7 4 4 6 1 8]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  2.  3.  2.  0.  0. 15.  0.  0. 10. 10.
+ 10. 10.]", reward: 5788.28125, lagrangian: 10628.90625, baseline: 4244.45654296875, advantage: 6384.44970703125, penalty: 4840.625, minibatch_loss: -5231.76123046875
+batch: 2700, network_service[batch 0]: [6 8 7 4 1 7 1 6 8 5 6 3 2 2 3 5 2 4 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12. 12.  3.  2.  2.  2.  2.  0.  0.  0.  0.  0.
+  3. 10.]", reward: 5823.4375, lagrangian: 10875.0, baseline: 4387.2646484375, advantage: 6487.7353515625, penalty: 5051.5625, minibatch_loss: -5169.75830078125
+batch: 2800, network_service[batch 0]: [7 3 3 3 4 7 8 4 7 5 7 2 1 6 7 8 5 8 8 7]," placement[batch 0]: [11. 11. 12. 13. 12. 12. 12.  3.  3.  2.  0.  3.  2.  2.  0.  0. 10.  0.
+ 10. 10.]", reward: 5685.9375, lagrangian: 10053.125, baseline: 4530.56591796875, advantage: 5522.55908203125, penalty: 4367.1875, minibatch_loss: -4235.306640625
+batch: 2900, network_service[batch 0]: [8 8 2 1 7 2 6 6 2 7 2 7 8 3 6 5 6 1 7 1]," placement[batch 0]: [11. 11. 11. 11. 11. 12. 12.  3.  3.  2.  2.  0.  2.  0.  1.  0. 10. 10.
+  0. 10.]", reward: 5746.09375, lagrangian: 10355.46875, baseline: 4670.0419921875, advantage: 5685.4267578125, penalty: 4609.375, minibatch_loss: -4173.3310546875
+batch: 3000, network_service[batch 0]: [6 1 5 3 4 8 7 7 1 5 5 1 1 6 3 1 4 8 5 1]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12. 12.  2. 19.  2.  2. 10.  0.  0.  0. 10. 10.
+ 10. 10.]", reward: 5783.59375, lagrangian: 10307.03125, baseline: 4808.9384765625, advantage: 5498.0927734375, penalty: 4523.4375, minibatch_loss: -3597.08349609375
+batch: 3100, network_service[batch 0]: [3 1 3 6 3 2 1 5 4 6 6 5 4 8 4 8 5 4 1 8]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  2.  3.  3.  2.  2.  0.  0.  0. 10. 10. 10.
+ 10. 10.]", reward: 5774.21875, lagrangian: 10185.15625, baseline: 4947.8017578125, advantage: 5237.3544921875, penalty: 4410.9375, minibatch_loss: -3368.599853515625
+batch: 3200, network_service[batch 0]: [4 5 6 2 8 3 1 6 3 7 7 7 5 2 6 6 1 1 4 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  2.  3.  3.  0.  2.  2.  0.  0. 10.  0.  0. 10.
+ 10. 10.]", reward: 5751.5625, lagrangian: 9462.5, baseline: 5083.35205078125, advantage: 4379.14794921875, penalty: 3710.9375, minibatch_loss: -2834.91259765625
+batch: 3300, network_service[batch 0]: [1 4 1 3 6 3 4 4 8 3 4 2 4 2 6 3 1 1 5 5]," placement[batch 0]: [11. 11. 11. 11. 10. 12. 12.  3.  3.  3.  3.  2.  2.  0.  0. 10. 10. 10.
+ 10. 10.]", reward: 5794.53125, lagrangian: 9669.53125, baseline: 5216.37255859375, advantage: 4453.15869140625, penalty: 3875.0, minibatch_loss: -2792.15185546875
+batch: 3400, network_service[batch 0]: [2 2 3 6 1 7 4 1 7 2 6 3 1 8 6 6 8 1 2 6]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  2.  0.  0. 10. 10.
+ 10. 10.]", reward: 5755.46875, lagrangian: 9327.34375, baseline: 5347.2470703125, advantage: 3980.0966796875, penalty: 3571.875, minibatch_loss: -2506.573974609375
+batch: 3500, network_service[batch 0]: [3 3 4 7 2 8 6 6 4 4 3 4 4 6 4 1 6 6 3 7]," placement[batch 0]: [11. 11. 11. 13. 12. 12. 12.  3.  2.  3.  2.  2.  2.  0.  0.  0.  0. 10.
+ 10. 10.]", reward: 5829.6875, lagrangian: 9467.1875, baseline: 5475.06494140625, advantage: 3992.12255859375, penalty: 3637.5, minibatch_loss: -2531.34375
+batch: 3600, network_service[batch 0]: [6 5 4 8 5 3 2 7 5 6 8 3 3 8 7 7 8 5 3 7]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12. 12.  3.  3.  2.  1.  0.  0.  0. 10. 10.  0.
+ 10. 10.]", reward: 5870.3125, lagrangian: 9417.1875, baseline: 5600.68701171875, advantage: 3816.50048828125, penalty: 3546.875, minibatch_loss: -2436.18017578125
+batch: 3700, network_service[batch 0]: [2 5 5 4 1 8 3 7 1 5 5 2 2 7 7 4 1 3 8 2]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  1.  0.  0.  0. 10.  1.
+ 10. 10.]", reward: 5833.59375, lagrangian: 8622.65625, baseline: 5719.8515625, advantage: 2902.8046875, penalty: 2789.0625, minibatch_loss: -1900.017822265625
+batch: 3800, network_service[batch 0]: [6 3 8 6 7 2 8 8 2 8 7 2 5 5 7 8 7 1 7 1]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12. 12. 18.  2.  5.  2.  0.  1.  1.  1. 10. 10.
+  1. 10.]", reward: 5836.71875, lagrangian: 8688.28125, baseline: 5834.65869140625, advantage: 2853.62255859375, penalty: 2851.5625, minibatch_loss: -1819.7781982421875
+batch: 3900, network_service[batch 0]: [2 6 7 2 7 6 2 5 3 3 6 7 5 3 2 7 4 5 1 3]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  2.  3.  2.  0.  2.  0.  0.  0. 10. 10. 15.
+ 10. 10.]", reward: 5914.0625, lagrangian: 8968.75, baseline: 5945.92919921875, advantage: 3022.82080078125, penalty: 3054.6875, minibatch_loss: -2201.642578125
+batch: 4000, network_service[batch 0]: [1 2 6 3 2 7 3 5 2 4 1 7 8 1 2 7 5 7 8 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12.  3.  3.  2.  2.  1.  0.  0.  1. 10.  1. 10.
+ 10. 10.]", reward: 5903.125, lagrangian: 8892.1875, baseline: 6052.88818359375, advantage: 2839.29931640625, penalty: 2989.0625, minibatch_loss: -1914.7989501953125
+batch: 4100, network_service[batch 0]: [6 5 8 1 1 5 3 6 1 6 2 3 1 7 1 4 5 8 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  2.  1.  0.  0.  0.  1. 10.  1.
+ 10. 10.]", reward: 5865.625, lagrangian: 8609.375, baseline: 6158.85986328125, advantage: 2450.51513671875, penalty: 2743.75, minibatch_loss: -1872.4837646484375
+batch: 4200, network_service[batch 0]: [6 6 4 1 3 5 7 3 3 3 6 1 6 4 4 5 4 7 6 6]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2. 13.  3.  1.  0. 10.  1.
+ 10.  1.]", reward: 5898.4375, lagrangian: 8706.25, baseline: 6260.1689453125, advantage: 2446.0810546875, penalty: 2807.8125, minibatch_loss: -1511.357421875
+batch: 4300, network_service[batch 0]: [6 1 2 7 7 2 8 8 8 1 8 5 6 2 1 1 5 6 3 1]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  0. 10.
+ 10. 10.]", reward: 5860.15625, lagrangian: 7985.15625, baseline: 6361.58056640625, advantage: 1623.57568359375, penalty: 2125.0, minibatch_loss: -970.0091552734375
+batch: 4400, network_service[batch 0]: [1 2 7 1 6 7 5 6 7 8 5 7 1 6 4 2 7 3 5 2]," placement[batch 0]: [11. 11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5960.9375, lagrangian: 8653.125, baseline: 6456.1435546875, advantage: 2196.9814453125, penalty: 2692.1875, minibatch_loss: -1233.867431640625
+batch: 4500, network_service[batch 0]: [7 7 5 1 1 5 1 5 7 3 4 8 5 3 4 5 4 3 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12.  3.  2.  2.  2.  2.  0.  0.  0.  0.  1.  1.
+ 10. 10.]", reward: 5836.71875, lagrangian: 8513.28125, baseline: 6545.47412109375, advantage: 1967.80712890625, penalty: 2676.5625, minibatch_loss: -1325.773193359375
+batch: 4600, network_service[batch 0]: [5 4 4 3 1 8 2 1 8 7 3 1 8 3 7 1 2 5 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  2.  1.  0.  0.  1. 10. 10.
+ 10.  1.]", reward: 5945.3125, lagrangian: 8031.25, baseline: 6630.244140625, advantage: 1401.005859375, penalty: 2085.9375, minibatch_loss: -1027.3748779296875
+batch: 4700, network_service[batch 0]: [8 2 3 2 2 1 1 5 7 8 5 8 3 7 5 5 4 3 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  1.  2.  2.  2.  0.  0.  0.  0.  0.  1. 10. 10.
+ 10. 10.]", reward: 5928.125, lagrangian: 8021.875, baseline: 6704.69482421875, advantage: 1317.18017578125, penalty: 2093.75, minibatch_loss: -751.7142944335938
+batch: 4800, network_service[batch 0]: [3 3 1 4 1 1 6 5 4 4 3 7 4 1 5 4 1 7 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  0.  1. 10.  1.
+ 10. 10.]", reward: 5913.28125, lagrangian: 8202.34375, baseline: 6771.93798828125, advantage: 1430.40576171875, penalty: 2289.0625, minibatch_loss: -716.5474853515625
+batch: 4900, network_service[batch 0]: [5 2 8 8 5 5 2 3 8 5 2 4 6 8 3 3 6 8 4 3]," placement[batch 0]: [11. 11. 11.  2. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  0. 10. 10.
+ 10. 10.]", reward: 5864.0625, lagrangian: 7965.625, baseline: 6834.83642578125, advantage: 1130.78857421875, penalty: 2101.5625, minibatch_loss: -678.4210205078125
+batch: 5000, network_service[batch 0]: [2 2 4 4 6 1 5 7 4 7 5 4 7 2 2 1 1 2 4 5]," placement[batch 0]: [11. 11. 11. 11. 12. 12.  3.  3.  2.  2.  0.  0.  1.  0.  1.  0. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 7557.8125, baseline: 6894.44482421875, advantage: 663.36767578125, penalty: 1656.25, minibatch_loss: -285.861572265625
+batch: 5100, network_service[batch 0]: [1 1 4 8 6 5 8 8 1 1 7 2 2 5 8 8 5 7 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  1.  1.  0.  1.  0.  1. 10.
+ 10. 10.]", reward: 5909.375, lagrangian: 7675.0, baseline: 6945.130859375, advantage: 729.869140625, penalty: 1765.625, minibatch_loss: -370.07879638671875
+batch: 5200, network_service[batch 0]: [4 3 1 4 1 1 7 4 7 4 8 6 6 8 7 7 1 5 5 5]," placement[batch 0]: [11. 11. 11. 12. 12.  3.  3.  3.  2.  2.  2.  1.  2.  0.  0.  0.  1. 10.
+ 10. 10.]", reward: 5992.1875, lagrangian: 7984.375, baseline: 6993.09423828125, advantage: 991.28076171875, penalty: 1992.1875, minibatch_loss: -448.76885986328125
+batch: 5300, network_service[batch 0]: [8 3 1 1 2 7 7 6 4 7 1 8 7 5 4 3 5 5 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+  1. 10.]", reward: 5964.0625, lagrangian: 7831.25, baseline: 7035.310546875, advantage: 795.939453125, penalty: 1867.1875, minibatch_loss: -514.7762451171875
+batch: 5400, network_service[batch 0]: [3 8 1 2 2 5 3 4 3 6 8 8 1 1 6 2 7 7 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5840.625, lagrangian: 7356.25, baseline: 7071.109375, advantage: 285.140625, penalty: 1515.625, minibatch_loss: -209.61448669433594
+batch: 5500, network_service[batch 0]: [5 7 8 6 7 6 6 7 8 3 2 4 2 2 1 5 6 8 2 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5903.125, lagrangian: 7340.625, baseline: 7102.44482421875, advantage: 238.18017578125, penalty: 1437.5, minibatch_loss: -138.19972229003906
+batch: 5600, network_service[batch 0]: [1 5 4 4 2 8 3 1 1 8 1 2 1 4 2 7 5 4 4 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5964.84375, lagrangian: 7542.96875, baseline: 7130.81982421875, advantage: 412.14892578125, penalty: 1578.125, minibatch_loss: -218.79898071289062
+batch: 5700, network_service[batch 0]: [1 7 1 6 5 7 3 1 2 8 2 3 5 4 2 1 5 4 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5933.59375, lagrangian: 7074.21875, baseline: 7152.46923828125, advantage: -78.25048828125, penalty: 1140.625, minibatch_loss: -55.7706298828125
+batch: 5800, network_service[batch 0]: [2 2 4 3 2 1 2 3 2 2 2 7 6 4 4 7 1 4 8 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12. 12.  3.  2.  2.  0.  0.  0.  0.  1.  0. 10. 10.
+ 10. 10.]", reward: 5856.25, lagrangian: 7137.5, baseline: 7165.2578125, advantage: -27.7578125, penalty: 1281.25, minibatch_loss: -28.254474639892578
+batch: 5900, network_service[batch 0]: [6 5 4 8 2 4 4 8 3 3 4 3 6 7 2 6 1 7 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5854.6875, lagrangian: 6870.3125, baseline: 7175.87451171875, advantage: -305.56201171875, penalty: 1015.625, minibatch_loss: 50.301116943359375
+batch: 6000, network_service[batch 0]: [2 4 1 5 7 8 7 6 5 1 4 8 7 6 6 7 4 6 6 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5932.8125, lagrangian: 7417.1875, baseline: 7177.638671875, advantage: 239.548828125, penalty: 1484.375, minibatch_loss: -147.68431091308594
+batch: 6100, network_service[batch 0]: [1 8 8 1 8 8 6 8 7 4 4 7 5 5 1 2 3 7 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  2.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5942.1875, lagrangian: 7223.4375, baseline: 7178.685546875, advantage: 44.751953125, penalty: 1281.25, minibatch_loss: -86.9531021118164
+batch: 6200, network_service[batch 0]: [1 3 5 7 7 4 1 5 2 2 3 3 8 5 2 5 5 6 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0. 10. 10. 10.
+ 10. 10.]", reward: 5921.875, lagrangian: 7250.0, baseline: 7173.060546875, advantage: 76.939453125, penalty: 1328.125, minibatch_loss: -129.33241271972656
+batch: 6300, network_service[batch 0]: [4 5 6 2 5 2 2 5 3 6 4 7 3 6 5 3 5 8 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5960.9375, lagrangian: 7085.9375, baseline: 7164.998046875, advantage: -79.060546875, penalty: 1125.0, minibatch_loss: -30.080326080322266
+batch: 6400, network_service[batch 0]: [2 7 5 7 8 4 5 3 5 8 4 7 7 7 1 8 7 5 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1.  1. 10.
+ 10.  1.]", reward: 5865.625, lagrangian: 6810.9375, baseline: 7152.95263671875, advantage: -342.01513671875, penalty: 945.3125, minibatch_loss: 33.00223922729492
+batch: 6500, network_service[batch 0]: [5 6 5 8 5 1 4 6 3 2 6 1 7 4 4 3 3 3 3 2]," placement[batch 0]: [11. 11. 11. 12. 12.  2.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5966.40625, lagrangian: 7044.53125, baseline: 7135.90576171875, advantage: -91.37451171875, penalty: 1078.125, minibatch_loss: -21.864248275756836
+batch: 6600, network_service[batch 0]: [2 6 6 6 5 6 7 7 6 6 8 5 6 7 8 6 5 6 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  1.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5935.9375, lagrangian: 7123.4375, baseline: 7116.77392578125, advantage: 6.66357421875, penalty: 1187.5, minibatch_loss: -93.77198791503906
+batch: 6700, network_service[batch 0]: [3 1 8 5 2 6 1 3 7 3 2 1 2 2 3 3 7 3 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5915.625, lagrangian: 7157.8125, baseline: 7100.39892578125, advantage: 57.41357421875, penalty: 1242.1875, minibatch_loss: -89.32563781738281
+batch: 6800, network_service[batch 0]: [5 4 5 2 5 6 2 3 7 4 3 2 2 7 1 4 3 6 6 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5920.3125, lagrangian: 6928.125, baseline: 7079.740234375, advantage: -151.615234375, penalty: 1007.8125, minibatch_loss: -19.14517593383789
+batch: 6900, network_service[batch 0]: [5 7 5 6 1 7 4 4 3 2 8 6 7 5 4 4 3 5 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5920.3125, lagrangian: 6967.1875, baseline: 7050.865234375, advantage: -83.677734375, penalty: 1046.875, minibatch_loss: -67.80052185058594
+batch: 7000, network_service[batch 0]: [4 8 5 5 7 1 1 4 6 7 4 2 1 5 2 4 4 1 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5872.65625, lagrangian: 6833.59375, baseline: 7025.11669921875, advantage: -191.52294921875, penalty: 960.9375, minibatch_loss: 8.404021263122559
+batch: 7100, network_service[batch 0]: [1 4 1 1 8 7 7 8 2 5 1 7 2 7 8 8 4 4 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5970.3125, lagrangian: 7040.625, baseline: 7006.830078125, advantage: 33.794921875, penalty: 1070.3125, minibatch_loss: -102.04913330078125
+batch: 7200, network_service[batch 0]: [3 5 3 1 7 7 5 6 4 4 5 5 7 2 5 4 2 4 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5857.8125, lagrangian: 6701.5625, baseline: 6982.03857421875, advantage: -280.47607421875, penalty: 843.75, minibatch_loss: 16.268674850463867
+batch: 7300, network_service[batch 0]: [8 5 6 2 5 4 8 8 2 1 7 4 6 3 7 2 4 5 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  0.  1. 10.  1.
+  1. 10.]", reward: 5910.15625, lagrangian: 6769.53125, baseline: 6951.50048828125, advantage: -181.96923828125, penalty: 859.375, minibatch_loss: 15.70391845703125
+batch: 7400, network_service[batch 0]: [5 2 7 1 6 5 2 3 2 1 2 5 8 1 5 4 3 2 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5906.25, lagrangian: 6828.125, baseline: 6926.95263671875, advantage: -98.82763671875, penalty: 921.875, minibatch_loss: -57.33314514160156
+batch: 7500, network_service[batch 0]: [4 7 1 7 2 4 4 8 7 7 6 5 8 5 5 8 3 5 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5892.1875, lagrangian: 6743.75, baseline: 6906.267578125, advantage: -162.517578125, penalty: 851.5625, minibatch_loss: -12.131174087524414
+batch: 7600, network_service[batch 0]: [2 3 1 6 4 1 8 7 8 3 5 3 7 4 2 5 3 2 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5866.40625, lagrangian: 6733.59375, baseline: 6881.84326171875, advantage: -148.24951171875, penalty: 867.1875, minibatch_loss: -20.03459358215332
+batch: 7700, network_service[batch 0]: [1 4 1 2 6 1 4 4 8 8 2 2 4 6 4 5 2 1 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5926.5625, lagrangian: 6770.3125, baseline: 6860.724609375, advantage: -90.412109375, penalty: 843.75, minibatch_loss: -16.511077880859375
+batch: 7800, network_service[batch 0]: [1 3 7 1 2 6 1 4 8 7 3 5 6 3 7 2 2 1 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5909.375, lagrangian: 6839.0625, baseline: 6852.88330078125, advantage: -13.82080078125, penalty: 929.6875, minibatch_loss: -11.379134178161621
+batch: 7900, network_service[batch 0]: [8 4 7 3 7 4 7 8 2 6 3 7 8 3 8 5 1 1 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5990.625, lagrangian: 6896.875, baseline: 6831.962890625, advantage: 64.912109375, penalty: 906.25, minibatch_loss: -38.512516021728516
+batch: 8000, network_service[batch 0]: [4 5 4 8 5 8 2 5 3 5 1 3 1 6 4 6 1 7 8 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5876.5625, lagrangian: 6595.3125, baseline: 6816.97607421875, advantage: -221.66357421875, penalty: 718.75, minibatch_loss: -38.93849182128906
+batch: 8100, network_service[batch 0]: [8 4 4 7 6 8 8 4 5 6 1 2 3 8 1 8 6 7 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5874.21875, lagrangian: 6553.90625, baseline: 6788.92919921875, advantage: -235.02294921875, penalty: 679.6875, minibatch_loss: -25.966630935668945
+batch: 8200, network_service[batch 0]: [1 5 4 8 5 7 3 7 8 5 1 4 1 2 1 2 8 4 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5957.8125, lagrangian: 6645.3125, baseline: 6771.58544921875, advantage: -126.27294921875, penalty: 687.5, minibatch_loss: -24.325477600097656
+batch: 8300, network_service[batch 0]: [1 6 7 5 2 8 2 8 3 7 7 5 4 3 8 5 2 7 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5874.21875, lagrangian: 6569.53125, baseline: 6751.8408203125, advantage: -182.3095703125, penalty: 695.3125, minibatch_loss: -13.96996784210205
+batch: 8400, network_service[batch 0]: [2 4 4 3 5 7 3 6 7 3 1 6 2 3 5 1 2 4 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5928.90625, lagrangian: 6796.09375, baseline: 6738.126953125, advantage: 57.966796875, penalty: 867.1875, minibatch_loss: -13.956003189086914
+batch: 8500, network_service[batch 0]: [8 3 7 5 2 2 5 6 7 2 7 7 2 6 5 2 7 1 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5928.90625, lagrangian: 6702.34375, baseline: 6729.193359375, advantage: -26.849609375, penalty: 773.4375, minibatch_loss: -35.33632278442383
+batch: 8600, network_service[batch 0]: [4 7 1 5 3 1 8 3 3 5 2 4 1 3 8 8 5 4 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5894.53125, lagrangian: 6722.65625, baseline: 6715.87548828125, advantage: 6.78076171875, penalty: 828.125, minibatch_loss: -27.776142120361328
+batch: 8700, network_service[batch 0]: [8 4 1 3 1 5 7 1 1 6 6 8 6 2 2 2 3 2 3 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5983.59375, lagrangian: 6796.09375, baseline: 6705.4873046875, advantage: 90.6064453125, penalty: 812.5, minibatch_loss: -36.52729797363281
+batch: 8800, network_service[batch 0]: [7 4 6 2 8 4 6 6 3 7 6 1 7 5 4 1 7 6 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5885.9375, lagrangian: 6581.25, baseline: 6698.98388671875, advantage: -117.73388671875, penalty: 695.3125, minibatch_loss: -12.630104064941406
+batch: 8900, network_service[batch 0]: [6 5 5 8 1 8 4 5 3 1 1 5 3 1 6 6 2 8 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5910.15625, lagrangian: 6808.59375, baseline: 6685.04638671875, advantage: 123.54736328125, penalty: 898.4375, minibatch_loss: -55.6043701171875
+batch: 9000, network_service[batch 0]: [8 7 7 5 1 6 1 4 8 4 3 7 6 5 3 7 4 4 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6783.59375, baseline: 6676.40625, advantage: 107.1875, penalty: 890.625, minibatch_loss: -48.79662322998047
+batch: 9100, network_service[batch 0]: [7 6 2 8 2 1 8 1 4 1 4 7 1 8 6 1 6 5 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5941.40625, lagrangian: 6878.90625, baseline: 6669.8984375, advantage: 209.0078125, penalty: 937.5, minibatch_loss: -68.09149932861328
+batch: 9200, network_service[batch 0]: [2 2 5 4 6 3 3 8 6 8 3 3 8 2 5 3 3 2 4 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5877.34375, lagrangian: 6541.40625, baseline: 6664.15673828125, advantage: -122.75048828125, penalty: 664.0625, minibatch_loss: -8.707249641418457
+batch: 9300, network_service[batch 0]: [7 6 4 3 4 5 6 7 4 6 5 8 4 6 2 1 5 6 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5925.78125, lagrangian: 6691.40625, baseline: 6657.21923828125, advantage: 34.18701171875, penalty: 765.625, minibatch_loss: 12.837701797485352
+batch: 9400, network_service[batch 0]: [3 4 2 8 3 6 7 6 2 8 3 3 6 5 3 4 1 5 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1.  1.
+ 10. 10.]", reward: 5946.875, lagrangian: 6860.9375, baseline: 6657.67236328125, advantage: 203.26513671875, penalty: 914.0625, minibatch_loss: -32.35387420654297
+batch: 9500, network_service[batch 0]: [7 3 7 2 8 2 7 3 1 4 5 6 1 3 7 4 8 6 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5918.75, lagrangian: 6528.125, baseline: 6650.83544921875, advantage: -122.71044921875, penalty: 609.375, minibatch_loss: -0.04964160919189453
+batch: 9600, network_service[batch 0]: [6 1 5 8 6 1 2 5 5 6 2 7 7 1 2 7 5 5 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5890.625, lagrangian: 6570.3125, baseline: 6644.35888671875, advantage: -74.04638671875, penalty: 679.6875, minibatch_loss: -0.10445117950439453
+batch: 9700, network_service[batch 0]: [4 2 4 1 5 6 8 1 4 3 6 1 7 4 1 1 6 1 3 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5907.03125, lagrangian: 6602.34375, baseline: 6638.6015625, advantage: -36.2578125, penalty: 695.3125, minibatch_loss: -18.773204803466797
+batch: 9800, network_service[batch 0]: [8 4 3 3 6 6 8 4 3 7 6 6 5 3 5 1 2 3 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5943.75, lagrangian: 6670.3125, baseline: 6636.80517578125, advantage: 33.50732421875, penalty: 726.5625, minibatch_loss: -7.613899230957031
+batch: 9900, network_service[batch 0]: [2 1 6 7 3 7 8 7 6 4 7 4 3 1 3 6 4 2 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5885.15625, lagrangian: 6525.78125, baseline: 6638.546875, advantage: -112.765625, penalty: 640.625, minibatch_loss: 20.882492065429688
+batch: 10000, network_service[batch 0]: [8 1 1 7 6 2 5 3 6 3 8 7 5 5 5 7 5 2 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5902.34375, lagrangian: 6542.96875, baseline: 6639.18798828125, advantage: -96.21923828125, penalty: 640.625, minibatch_loss: -2.4560837745666504
+batch: 10100, network_service[batch 0]: [8 8 4 2 2 2 2 3 5 7 5 3 5 8 1 7 4 8 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5905.46875, lagrangian: 6686.71875, baseline: 6644.93798828125, advantage: 41.78076171875, penalty: 781.25, minibatch_loss: -64.43170166015625
+batch: 10200, network_service[batch 0]: [6 2 1 4 3 2 2 8 2 8 1 4 1 8 7 7 4 2 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5886.71875, lagrangian: 6597.65625, baseline: 6637.90673828125, advantage: -40.25048828125, penalty: 710.9375, minibatch_loss: -42.84531784057617
+batch: 10300, network_service[batch 0]: [3 1 8 3 5 1 6 8 6 6 8 8 8 1 3 8 7 1 5 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5903.125, lagrangian: 6715.625, baseline: 6623.787109375, advantage: 91.837890625, penalty: 812.5, minibatch_loss: -34.188568115234375
+batch: 10400, network_service[batch 0]: [1 7 1 1 8 6 7 7 6 3 4 3 3 8 4 3 2 1 3 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6572.65625, baseline: 6602.68017578125, advantage: -30.02392578125, penalty: 679.6875, minibatch_loss: -0.8758091926574707
+batch: 10500, network_service[batch 0]: [5 4 1 6 2 6 4 8 4 8 4 8 2 2 3 1 3 6 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5921.09375, lagrangian: 6530.46875, baseline: 6598.91455078125, advantage: -68.44580078125, penalty: 609.375, minibatch_loss: -3.053522825241089
+batch: 10600, network_service[batch 0]: [5 7 1 3 1 6 3 4 6 2 5 7 2 6 5 8 2 3 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5972.65625, lagrangian: 6738.28125, baseline: 6598.50830078125, advantage: 139.77294921875, penalty: 765.625, minibatch_loss: -39.10606002807617
+batch: 10700, network_service[batch 0]: [6 3 6 8 2 4 1 1 7 3 7 6 1 7 7 2 5 2 8 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5878.90625, lagrangian: 6542.96875, baseline: 6590.6064453125, advantage: -47.6376953125, penalty: 664.0625, minibatch_loss: -12.765666007995605
+batch: 10800, network_service[batch 0]: [5 1 1 1 2 5 4 2 5 8 1 8 3 1 5 7 5 1 8 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5917.96875, lagrangian: 6652.34375, baseline: 6594.498046875, advantage: 57.845703125, penalty: 734.375, minibatch_loss: -11.889060974121094
+batch: 10900, network_service[batch 0]: [6 4 8 6 4 7 1 6 6 5 2 5 5 8 2 2 3 1 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.8125, lagrangian: 6478.125, baseline: 6593.06298828125, advantage: -114.93798828125, penalty: 570.3125, minibatch_loss: 6.348077774047852
+batch: 11000, network_service[batch 0]: [5 1 3 7 1 3 3 4 2 3 6 5 4 1 3 4 7 5 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5902.34375, lagrangian: 6714.84375, baseline: 6599.73486328125, advantage: 115.10888671875, penalty: 812.5, minibatch_loss: -21.547456741333008
+batch: 11100, network_service[batch 0]: [7 3 2 2 6 1 8 8 6 6 3 1 3 1 1 3 6 7 6 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5893.75, lagrangian: 6526.5625, baseline: 6587.556640625, advantage: -60.994140625, penalty: 632.8125, minibatch_loss: 0.4805421829223633
+batch: 11200, network_service[batch 0]: [4 3 4 5 2 4 4 8 2 4 3 3 4 4 1 7 2 2 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5890.625, lagrangian: 6523.4375, baseline: 6546.81787109375, advantage: -23.38037109375, penalty: 632.8125, minibatch_loss: 4.418426036834717
+batch: 11300, network_service[batch 0]: [7 8 1 1 3 4 6 1 1 2 8 3 6 5 4 1 1 6 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5913.28125, lagrangian: 6585.15625, baseline: 6557.41455078125, advantage: 27.74169921875, penalty: 671.875, minibatch_loss: -18.091827392578125
+batch: 11400, network_service[batch 0]: [5 1 1 8 5 5 5 5 4 7 5 7 3 1 1 8 5 7 4 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5878.90625, lagrangian: 6457.03125, baseline: 6539.375, advantage: -82.34375, penalty: 578.125, minibatch_loss: -4.1216888427734375
+batch: 11500, network_service[batch 0]: [3 6 5 3 2 4 8 1 8 5 4 3 8 2 6 1 6 7 6 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5864.84375, lagrangian: 6364.84375, baseline: 6549.74267578125, advantage: -184.89892578125, penalty: 500.0, minibatch_loss: -13.308921813964844
+batch: 11600, network_service[batch 0]: [7 7 4 4 7 4 3 2 2 1 3 1 7 5 1 1 7 3 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5883.59375, lagrangian: 6532.03125, baseline: 6553.61767578125, advantage: -21.58642578125, penalty: 648.4375, minibatch_loss: -21.177907943725586
+batch: 11700, network_service[batch 0]: [2 2 7 8 3 5 6 2 7 5 3 4 7 3 3 2 6 4 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6425.0, baseline: 6523.51025390625, advantage: -98.51025390625, penalty: 523.4375, minibatch_loss: -6.511488914489746
+batch: 11800, network_service[batch 0]: [2 8 6 7 4 5 5 2 2 6 7 3 7 6 3 5 5 4 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5912.5, lagrangian: 6467.1875, baseline: 6536.38330078125, advantage: -69.19580078125, penalty: 554.6875, minibatch_loss: 10.142094612121582
+batch: 11900, network_service[batch 0]: [3 5 5 1 2 1 6 2 1 6 6 5 2 7 1 7 6 8 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.03125, lagrangian: 6430.46875, baseline: 6512.74462890625, advantage: -82.27587890625, penalty: 523.4375, minibatch_loss: 3.80076265335083
+batch: 12000, network_service[batch 0]: [7 3 7 1 3 4 2 4 7 7 2 6 5 3 1 7 5 8 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5862.5, lagrangian: 6331.25, baseline: 6543.2001953125, advantage: -211.9501953125, penalty: 468.75, minibatch_loss: -12.36687183380127
+batch: 12100, network_service[batch 0]: [7 6 1 3 5 4 2 1 8 3 8 4 2 6 7 3 2 7 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5860.15625, lagrangian: 6422.65625, baseline: 6514.2783203125, advantage: -91.6220703125, penalty: 562.5, minibatch_loss: -18.445281982421875
+batch: 12200, network_service[batch 0]: [5 8 5 2 2 1 1 6 2 7 6 4 2 4 1 8 6 3 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5903.125, lagrangian: 6434.375, baseline: 6501.14892578125, advantage: -66.77392578125, penalty: 531.25, minibatch_loss: 1.0810410976409912
+batch: 12300, network_service[batch 0]: [1 4 6 2 2 7 8 5 8 8 4 1 4 1 5 5 4 1 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5876.5625, lagrangian: 6439.0625, baseline: 6484.6328125, advantage: -45.5703125, penalty: 562.5, minibatch_loss: -8.506254196166992
+batch: 12400, network_service[batch 0]: [1 7 7 7 2 4 5 8 5 4 3 5 4 7 6 7 5 6 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5920.3125, lagrangian: 6584.375, baseline: 6498.224609375, advantage: 86.150390625, penalty: 664.0625, minibatch_loss: -16.086471557617188
+batch: 12500, network_service[batch 0]: [8 7 4 7 2 1 1 8 8 4 8 1 1 3 3 6 8 5 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5925.78125, lagrangian: 6457.03125, baseline: 6538.20068359375, advantage: -81.16943359375, penalty: 531.25, minibatch_loss: -3.960059642791748
+batch: 12600, network_service[batch 0]: [5 6 2 8 3 8 6 1 4 3 2 7 4 3 8 2 4 1 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5924.21875, lagrangian: 6447.65625, baseline: 6510.43701171875, advantage: -62.78076171875, penalty: 523.4375, minibatch_loss: -1.5550470352172852
+batch: 12700, network_service[batch 0]: [4 4 4 3 8 4 1 7 8 1 7 7 1 2 2 3 2 7 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5932.8125, lagrangian: 6518.75, baseline: 6498.64111328125, advantage: 20.10888671875, penalty: 585.9375, minibatch_loss: 0.7950544357299805
+batch: 12800, network_service[batch 0]: [3 5 8 3 8 4 5 7 5 1 6 1 8 5 6 4 4 5 4 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5824.21875, lagrangian: 6410.15625, baseline: 6513.33349609375, advantage: -103.17724609375, penalty: 585.9375, minibatch_loss: -28.144275665283203
+batch: 12900, network_service[batch 0]: [7 7 2 7 2 4 1 6 8 8 5 3 2 3 8 4 8 2 4 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5906.25, lagrangian: 6414.0625, baseline: 6521.5927734375, advantage: -107.5302734375, penalty: 507.8125, minibatch_loss: 6.226131439208984
+batch: 13000, network_service[batch 0]: [7 6 4 3 2 8 1 3 5 2 3 1 4 1 7 3 6 1 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5914.0625, lagrangian: 6484.375, baseline: 6505.96142578125, advantage: -21.58642578125, penalty: 570.3125, minibatch_loss: -3.615656852722168
+batch: 13100, network_service[batch 0]: [1 3 5 1 5 5 5 6 1 7 5 7 3 2 8 7 8 8 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5985.15625, lagrangian: 6594.53125, baseline: 6470.38525390625, advantage: 124.14599609375, penalty: 609.375, minibatch_loss: -13.850057601928711
+batch: 13200, network_service[batch 0]: [2 7 7 2 2 6 4 5 7 8 6 4 7 1 5 5 1 5 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5880.46875, lagrangian: 6536.71875, baseline: 6458.619140625, advantage: 78.099609375, penalty: 656.25, minibatch_loss: -7.891953945159912
+batch: 13300, network_service[batch 0]: [3 5 6 7 5 8 6 2 3 8 2 6 8 5 8 8 2 4 8 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.8125, lagrangian: 6673.4375, baseline: 6469.74755859375, advantage: 203.68994140625, penalty: 765.625, minibatch_loss: -49.94352722167969
+batch: 13400, network_service[batch 0]: [3 5 2 3 7 6 2 7 5 8 8 8 2 8 4 3 1 3 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5858.59375, lagrangian: 6303.90625, baseline: 6484.76318359375, advantage: -180.85693359375, penalty: 445.3125, minibatch_loss: 8.22623062133789
+batch: 13500, network_service[batch 0]: [5 1 3 8 3 8 6 6 8 2 6 4 8 8 7 6 1 7 3 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5867.96875, lagrangian: 6258.59375, baseline: 6504.1171875, advantage: -245.5234375, penalty: 390.625, minibatch_loss: 1.2738852500915527
+batch: 13600, network_service[batch 0]: [7 4 8 4 6 4 4 1 7 5 2 1 6 6 1 1 5 8 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5910.9375, lagrangian: 6559.375, baseline: 6503.11474609375, advantage: 56.26025390625, penalty: 648.4375, minibatch_loss: -20.05025863647461
+batch: 13700, network_service[batch 0]: [2 3 2 4 7 4 8 7 4 8 6 1 3 7 1 5 3 4 6 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5864.84375, lagrangian: 6357.03125, baseline: 6455.1748046875, advantage: -98.1435546875, penalty: 492.1875, minibatch_loss: 1.4000895023345947
+batch: 13800, network_service[batch 0]: [3 2 5 7 7 3 5 3 2 2 7 2 6 5 2 3 8 1 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5939.84375, lagrangian: 6494.53125, baseline: 6446.79150390625, advantage: 47.73974609375, penalty: 554.6875, minibatch_loss: -23.39255714416504
+batch: 13900, network_service[batch 0]: [5 6 2 3 5 6 2 8 3 6 5 2 1 8 3 8 3 8 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6367.1875, baseline: 6438.205078125, advantage: -71.017578125, penalty: 468.75, minibatch_loss: -7.285768985748291
+batch: 14000, network_service[batch 0]: [7 4 1 6 2 4 6 5 2 7 2 6 3 5 5 6 2 6 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6528.90625, baseline: 6438.763671875, advantage: 90.142578125, penalty: 632.8125, minibatch_loss: -14.182411193847656
+batch: 14100, network_service[batch 0]: [3 4 3 4 3 1 2 4 8 5 3 7 7 7 1 8 4 4 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5887.5, lagrangian: 6426.5625, baseline: 6462.1337890625, advantage: -35.5712890625, penalty: 539.0625, minibatch_loss: 0.22843456268310547
+batch: 14200, network_service[batch 0]: [7 8 7 1 1 2 4 3 1 5 1 3 6 1 3 6 3 3 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6325.0, baseline: 6462.53369140625, advantage: -137.53369140625, penalty: 429.6875, minibatch_loss: 2.525959014892578
+batch: 14300, network_service[batch 0]: [3 5 6 5 6 2 1 6 5 7 1 6 7 5 4 7 4 1 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5917.96875, lagrangian: 6464.84375, baseline: 6485.62744140625, advantage: -20.78369140625, penalty: 546.875, minibatch_loss: -8.98718547821045
+batch: 14400, network_service[batch 0]: [5 2 3 5 2 7 5 8 3 1 1 6 3 7 7 8 3 1 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6466.40625, baseline: 6458.931640625, advantage: 7.474609375, penalty: 570.3125, minibatch_loss: -0.01967497169971466
+batch: 14500, network_service[batch 0]: [3 8 6 4 3 5 1 4 5 8 2 5 2 2 2 7 8 4 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5864.84375, lagrangian: 6450.78125, baseline: 6445.751953125, advantage: 5.029296875, penalty: 585.9375, minibatch_loss: -10.529367446899414
+batch: 14600, network_service[batch 0]: [4 7 3 8 2 3 2 7 2 7 8 8 1 4 1 7 4 2 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5877.34375, lagrangian: 6642.96875, baseline: 6460.82861328125, advantage: 182.14013671875, penalty: 765.625, minibatch_loss: -14.679607391357422
+batch: 14700, network_service[batch 0]: [6 2 1 5 4 5 1 5 1 7 7 2 5 4 4 3 3 7 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5915.625, lagrangian: 6509.375, baseline: 6462.3134765625, advantage: 47.0615234375, penalty: 593.75, minibatch_loss: 1.6318325996398926
+batch: 14800, network_service[batch 0]: [4 8 3 2 8 6 1 5 7 2 2 8 7 2 8 1 4 3 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5945.3125, lagrangian: 6593.75, baseline: 6482.71826171875, advantage: 111.03173828125, penalty: 648.4375, minibatch_loss: -19.193571090698242
+batch: 14900, network_service[batch 0]: [6 1 5 4 8 4 4 1 5 6 6 7 8 7 3 8 5 8 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5963.28125, lagrangian: 6541.40625, baseline: 6316.30419921875, advantage: 225.10205078125, penalty: 578.125, minibatch_loss: -20.34992218017578
+batch: 15000, network_service[batch 0]: [6 3 2 3 8 8 8 6 4 7 6 7 1 3 2 6 2 3 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5860.15625, lagrangian: 6391.40625, baseline: 6344.05126953125, advantage: 47.35498046875, penalty: 531.25, minibatch_loss: -9.25680923461914
+batch: 15100, network_service[batch 0]: [7 7 6 6 1 2 3 7 5 5 7 7 8 2 7 1 1 3 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5844.53125, lagrangian: 6282.03125, baseline: 6081.5205078125, advantage: 200.5107421875, penalty: 437.5, minibatch_loss: -24.166656494140625
+batch: 15200, network_service[batch 0]: [4 3 8 4 8 3 3 6 8 6 6 8 6 1 5 3 8 5 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5872.65625, lagrangian: 6403.90625, baseline: 6406.498046875, advantage: -2.591796875, penalty: 531.25, minibatch_loss: 0.5251260995864868
+batch: 15300, network_service[batch 0]: [3 2 3 7 4 6 5 1 5 8 8 2 5 7 6 1 6 3 4 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5941.40625, lagrangian: 6566.40625, baseline: 6477.1953125, advantage: 89.2109375, penalty: 625.0, minibatch_loss: -9.672033309936523
+batch: 15400, network_service[batch 0]: [2 4 3 7 8 5 2 8 8 8 3 4 6 4 7 6 6 8 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5833.59375, lagrangian: 6208.59375, baseline: 6361.66015625, advantage: -153.06640625, penalty: 375.0, minibatch_loss: 3.9813802242279053
+batch: 15500, network_service[batch 0]: [4 3 2 4 1 1 5 5 7 2 8 7 6 5 3 8 1 1 4 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5922.65625, lagrangian: 6610.15625, baseline: 6461.1015625, advantage: 149.0546875, penalty: 687.5, minibatch_loss: -12.86016845703125
+batch: 15600, network_service[batch 0]: [4 6 2 5 2 2 7 8 8 7 1 6 6 5 5 2 5 8 8 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5945.3125, lagrangian: 6531.25, baseline: 6495.1865234375, advantage: 36.0634765625, penalty: 585.9375, minibatch_loss: -8.584920883178711
+batch: 15700, network_service[batch 0]: [6 4 2 1 8 5 7 1 6 4 8 7 5 7 6 1 4 1 5 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5867.96875, lagrangian: 6422.65625, baseline: 6451.45947265625, advantage: -28.80322265625, penalty: 554.6875, minibatch_loss: -8.055802345275879
+batch: 15800, network_service[batch 0]: [2 7 8 8 8 4 4 2 8 5 1 8 1 5 4 5 7 8 7 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5816.40625, lagrangian: 6261.71875, baseline: 6389.7958984375, advantage: -128.0771484375, penalty: 445.3125, minibatch_loss: -6.651234149932861
+batch: 15900, network_service[batch 0]: [2 8 3 6 6 2 5 7 8 8 1 5 1 4 3 6 7 5 2 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5910.15625, lagrangian: 6605.46875, baseline: 6487.93212890625, advantage: 117.53662109375, penalty: 695.3125, minibatch_loss: -22.057741165161133
+batch: 16000, network_service[batch 0]: [2 5 1 4 6 2 1 5 5 7 7 7 8 6 5 5 7 5 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6512.5, baseline: 6438.974609375, advantage: 73.525390625, penalty: 617.1875, minibatch_loss: -1.7395853996276855
+batch: 16100, network_service[batch 0]: [6 4 5 4 3 1 4 3 1 5 8 4 8 4 2 8 1 4 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5813.28125, lagrangian: 6266.40625, baseline: 6307.34375, advantage: -40.9375, penalty: 453.125, minibatch_loss: -2.447254180908203
+batch: 16200, network_service[batch 0]: [6 2 1 2 7 2 7 2 3 2 6 2 5 8 6 6 3 6 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6357.03125, baseline: 6385.787109375, advantage: -28.755859375, penalty: 460.9375, minibatch_loss: 1.6317987442016602
+batch: 16300, network_service[batch 0]: [7 5 6 6 5 1 4 6 8 4 8 2 8 8 1 2 6 4 7 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5913.28125, lagrangian: 6686.71875, baseline: 6536.89990234375, advantage: 149.81884765625, penalty: 773.4375, minibatch_loss: -16.997570037841797
+batch: 16400, network_service[batch 0]: [5 3 1 4 2 3 2 4 8 4 3 1 2 1 1 1 6 7 2 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6476.5625, baseline: 6374.109375, advantage: 102.453125, penalty: 578.125, minibatch_loss: -18.010601043701172
+batch: 16500, network_service[batch 0]: [7 2 2 5 8 6 8 8 3 4 3 2 8 6 2 1 5 1 6 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5906.25, lagrangian: 6414.0625, baseline: 6435.2705078125, advantage: -21.2080078125, penalty: 507.8125, minibatch_loss: -4.713876724243164
+batch: 16600, network_service[batch 0]: [8 3 1 8 4 1 2 3 3 2 6 1 7 6 7 3 5 2 5 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5962.5, lagrangian: 6618.75, baseline: 6512.759765625, advantage: 105.990234375, penalty: 656.25, minibatch_loss: -1.2669596672058105
+batch: 16700, network_service[batch 0]: [3 8 8 6 1 6 8 2 6 4 1 6 6 6 6 3 3 3 1 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5897.65625, lagrangian: 6413.28125, baseline: 6395.5224609375, advantage: 17.7587890625, penalty: 515.625, minibatch_loss: -8.985051155090332
+batch: 16800, network_service[batch 0]: [2 1 8 7 4 1 1 8 2 5 7 3 1 2 4 5 4 3 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5846.09375, lagrangian: 6455.46875, baseline: 6309.6171875, advantage: 145.8515625, penalty: 609.375, minibatch_loss: -4.172872543334961
+batch: 16900, network_service[batch 0]: [2 6 8 5 5 7 1 6 5 3 1 3 1 1 7 1 3 7 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5871.09375, lagrangian: 6371.09375, baseline: 6495.2685546875, advantage: -124.1748046875, penalty: 500.0, minibatch_loss: 2.4349207878112793
+batch: 17000, network_service[batch 0]: [4 4 3 5 7 5 5 1 3 3 2 6 7 2 5 3 8 3 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5887.5, lagrangian: 6489.0625, baseline: 6234.5810546875, advantage: 254.4814453125, penalty: 601.5625, minibatch_loss: -4.356106758117676
+batch: 17100, network_service[batch 0]: [6 7 1 4 3 2 1 7 7 6 8 8 8 1 6 1 6 4 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5863.28125, lagrangian: 6464.84375, baseline: 6388.88525390625, advantage: 75.95849609375, penalty: 601.5625, minibatch_loss: -8.322747230529785
+batch: 17200, network_service[batch 0]: [5 1 6 5 1 7 7 5 2 8 7 6 5 4 6 4 3 4 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5930.46875, lagrangian: 6391.40625, baseline: 6397.1591796875, advantage: -5.7529296875, penalty: 460.9375, minibatch_loss: -2.9579272270202637
+batch: 17300, network_service[batch 0]: [8 1 7 7 8 8 7 6 7 5 1 3 1 3 1 6 3 3 1 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5948.4375, lagrangian: 6526.5625, baseline: 6357.3671875, advantage: 169.1953125, penalty: 578.125, minibatch_loss: -10.26262378692627
+batch: 17400, network_service[batch 0]: [1 3 8 7 7 7 2 1 5 2 1 3 1 1 5 6 8 3 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5903.90625, lagrangian: 6325.78125, baseline: 6364.0546875, advantage: -38.2734375, penalty: 421.875, minibatch_loss: -2.63314151763916
+batch: 17500, network_service[batch 0]: [2 4 1 2 1 4 1 3 1 2 8 1 5 1 6 2 1 6 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5942.1875, lagrangian: 6371.875, baseline: 6511.2685546875, advantage: -139.3935546875, penalty: 429.6875, minibatch_loss: -5.281335830688477
+batch: 17600, network_service[batch 0]: [7 5 1 2 3 8 5 5 7 4 6 3 3 3 7 2 2 7 8 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5881.25, lagrangian: 6412.5, baseline: 6379.8251953125, advantage: 32.6748046875, penalty: 531.25, minibatch_loss: -32.46272277832031
+batch: 17700, network_service[batch 0]: [3 1 8 6 8 6 3 2 2 8 5 5 7 4 7 3 3 1 3 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5923.4375, lagrangian: 6579.6875, baseline: 6399.43359375, advantage: 180.25390625, penalty: 656.25, minibatch_loss: -16.73906898498535
+batch: 17800, network_service[batch 0]: [5 4 7 3 1 2 6 3 7 6 1 7 4 6 3 8 4 6 6 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 6008.59375, lagrangian: 6688.28125, baseline: 6481.65576171875, advantage: 206.62548828125, penalty: 679.6875, minibatch_loss: -11.472031593322754
+batch: 17900, network_service[batch 0]: [1 5 5 7 1 1 7 1 1 2 4 8 5 7 2 4 5 6 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5886.71875, lagrangian: 6371.09375, baseline: 6390.076171875, advantage: -18.982421875, penalty: 484.375, minibatch_loss: -14.596435546875
+batch: 18000, network_service[batch 0]: [8 1 8 8 3 6 5 7 7 3 8 6 7 2 4 7 7 8 6 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5900.78125, lagrangian: 6416.40625, baseline: 6406.7177734375, advantage: 9.6884765625, penalty: 515.625, minibatch_loss: -2.2345104217529297
+batch: 18100, network_service[batch 0]: [4 2 1 1 4 5 6 8 6 5 7 2 2 2 7 8 1 3 5 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6382.8125, baseline: 6359.4951171875, advantage: 23.3173828125, penalty: 484.375, minibatch_loss: -10.916765213012695
+batch: 18200, network_service[batch 0]: [1 2 7 5 7 5 2 2 5 3 5 6 4 4 7 7 3 4 8 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5929.6875, lagrangian: 6531.25, baseline: 6449.20556640625, advantage: 82.04443359375, penalty: 601.5625, minibatch_loss: -10.002522468566895
+batch: 18300, network_service[batch 0]: [3 5 5 7 5 4 6 4 2 5 3 2 5 5 6 6 7 1 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5876.5625, lagrangian: 6267.1875, baseline: 6248.5400390625, advantage: 18.6474609375, penalty: 390.625, minibatch_loss: -3.9738080501556396
+batch: 18400, network_service[batch 0]: [2 4 5 6 1 3 1 4 8 4 6 7 7 5 5 4 5 4 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5944.53125, lagrangian: 6725.78125, baseline: 6396.3203125, advantage: 329.4609375, penalty: 781.25, minibatch_loss: -25.791460037231445
+batch: 18500, network_service[batch 0]: [4 2 2 5 3 6 4 2 3 3 1 1 3 5 7 5 2 1 8 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.03125, lagrangian: 6547.65625, baseline: 6381.2060546875, advantage: 166.4501953125, penalty: 640.625, minibatch_loss: -11.538074493408203
+batch: 18600, network_service[batch 0]: [5 4 5 8 5 7 7 2 6 3 2 2 6 4 2 4 3 8 3 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5882.03125, lagrangian: 6475.78125, baseline: 6373.5498046875, advantage: 102.2314453125, penalty: 593.75, minibatch_loss: -2.8777883052825928
+batch: 18700, network_service[batch 0]: [2 1 6 2 5 1 5 6 6 3 3 2 4 6 1 7 5 7 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5968.75, lagrangian: 6640.625, baseline: 6514.47412109375, advantage: 126.15087890625, penalty: 671.875, minibatch_loss: -11.648809432983398
+batch: 18800, network_service[batch 0]: [2 2 6 4 8 8 7 5 7 5 1 4 8 4 3 8 5 1 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6312.5, baseline: 6299.640625, advantage: 12.859375, penalty: 414.0625, minibatch_loss: -7.673776626586914
+batch: 18900, network_service[batch 0]: [3 5 3 5 5 5 6 3 1 3 6 2 7 6 7 4 1 5 8 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5859.375, lagrangian: 6296.875, baseline: 6322.8916015625, advantage: -26.0166015625, penalty: 437.5, minibatch_loss: -13.061516761779785
+batch: 19000, network_service[batch 0]: [4 5 8 3 6 3 6 1 5 3 7 1 7 1 1 3 1 2 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5902.34375, lagrangian: 6582.03125, baseline: 6388.81103515625, advantage: 193.22021484375, penalty: 679.6875, minibatch_loss: -16.102523803710938
+batch: 19100, network_service[batch 0]: [8 4 5 3 4 4 5 7 8 7 1 7 8 1 1 2 7 2 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5853.125, lagrangian: 6298.4375, baseline: 6298.9189453125, advantage: -0.4814453125, penalty: 445.3125, minibatch_loss: -3.3132834434509277
+batch: 19200, network_service[batch 0]: [1 8 3 7 8 2 2 7 8 5 4 8 1 4 1 7 4 4 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  2.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5880.46875, lagrangian: 6271.09375, baseline: 6394.275390625, advantage: -123.181640625, penalty: 390.625, minibatch_loss: -8.135782241821289
+batch: 19300, network_service[batch 0]: [2 5 4 7 2 2 2 5 7 6 2 8 2 8 6 4 3 2 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5978.125, lagrangian: 6587.5, baseline: 6507.6416015625, advantage: 79.8583984375, penalty: 609.375, minibatch_loss: -20.932010650634766
+batch: 19400, network_service[batch 0]: [1 5 7 8 5 5 2 8 2 4 1 3 3 8 2 5 6 4 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5861.71875, lagrangian: 6275.78125, baseline: 6497.3994140625, advantage: -221.6181640625, penalty: 414.0625, minibatch_loss: -3.9652020931243896
+batch: 19500, network_service[batch 0]: [8 8 6 1 4 3 5 2 1 1 6 1 6 2 5 1 7 7 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6403.90625, baseline: 6413.9345703125, advantage: -10.0283203125, penalty: 507.8125, minibatch_loss: -10.417232513427734
+batch: 19600, network_service[batch 0]: [4 5 8 7 4 7 4 8 4 7 3 6 7 3 7 7 2 4 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5883.59375, lagrangian: 6461.71875, baseline: 6477.93505859375, advantage: -16.21630859375, penalty: 578.125, minibatch_loss: 3.0624382495880127
+batch: 19700, network_service[batch 0]: [7 6 2 7 8 3 4 3 6 7 1 7 7 8 4 8 7 3 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5844.53125, lagrangian: 6282.03125, baseline: 6244.412109375, advantage: 37.619140625, penalty: 437.5, minibatch_loss: -6.768072128295898
+batch: 19800, network_service[batch 0]: [5 2 5 5 6 1 6 3 7 3 5 3 8 3 5 1 6 3 2 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5902.34375, lagrangian: 6394.53125, baseline: 6424.77294921875, advantage: -30.24169921875, penalty: 492.1875, minibatch_loss: -6.877587795257568
+batch: 19900, network_service[batch 0]: [4 5 4 5 3 5 2 3 3 5 6 1 3 3 8 2 4 1 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5939.0625, lagrangian: 6415.625, baseline: 6379.14208984375, advantage: 36.48291015625, penalty: 476.5625, minibatch_loss: -3.0719571113586426
+batch: 20000, network_service[batch 0]: [1 2 4 5 4 7 3 2 2 7 1 2 4 6 5 7 2 7 8 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5939.0625, lagrangian: 6446.875, baseline: 6495.3701171875, advantage: -48.4951171875, penalty: 507.8125, minibatch_loss: 0.12092697620391846
+batch: 20100, network_service[batch 0]: [4 8 1 6 3 6 2 6 8 5 8 4 8 2 1 3 1 3 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5973.4375, lagrangian: 6637.5, baseline: 6549.0927734375, advantage: 88.4072265625, penalty: 664.0625, minibatch_loss: -10.926006317138672
+batch: 20200, network_service[batch 0]: [7 7 7 8 6 2 6 3 4 3 6 5 7 3 5 2 2 3 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5851.5625, lagrangian: 6226.5625, baseline: 6239.4765625, advantage: -12.9140625, penalty: 375.0, minibatch_loss: 2.688490867614746
+batch: 20300, network_service[batch 0]: [5 7 6 5 4 7 8 7 2 7 2 2 6 4 3 2 6 1 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6460.9375, baseline: 6325.216796875, advantage: 135.720703125, penalty: 562.5, minibatch_loss: -12.407257080078125
+batch: 20400, network_service[batch 0]: [2 6 4 5 5 7 7 1 3 4 1 4 2 5 7 2 5 7 2 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1.  1.
+ 10. 10.]", reward: 5925.0, lagrangian: 6417.1875, baseline: 6453.33544921875, advantage: -36.14794921875, penalty: 492.1875, minibatch_loss: 1.5892002582550049
+batch: 20500, network_service[batch 0]: [1 1 3 7 3 4 7 6 6 8 2 3 8 3 7 2 5 6 1 1]," placement[batch 0]: [11. 11. 11. 12. 12.  3.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5906.25, lagrangian: 6382.8125, baseline: 6374.5546875, advantage: 8.2578125, penalty: 476.5625, minibatch_loss: -1.1146869659423828
+batch: 20600, network_service[batch 0]: [3 5 3 1 3 2 3 2 5 2 7 3 5 3 2 1 5 2 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5851.5625, lagrangian: 6234.375, baseline: 6293.505859375, advantage: -59.130859375, penalty: 382.8125, minibatch_loss: -3.865389823913574
+batch: 20700, network_service[batch 0]: [8 4 6 5 6 6 8 2 5 4 1 8 4 3 2 6 4 8 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5871.875, lagrangian: 6426.5625, baseline: 6446.68212890625, advantage: -20.11962890625, penalty: 554.6875, minibatch_loss: 2.452843189239502
+batch: 20800, network_service[batch 0]: [8 7 8 6 3 5 7 3 5 5 8 4 7 5 3 2 8 2 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5856.25, lagrangian: 6332.8125, baseline: 6319.26513671875, advantage: 13.54736328125, penalty: 476.5625, minibatch_loss: -0.21829557418823242
+batch: 20900, network_service[batch 0]: [5 2 7 4 4 5 7 5 4 5 1 4 7 6 8 3 5 8 6 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1. 10. 10. 10.
+ 10. 10.]", reward: 5855.46875, lagrangian: 6480.46875, baseline: 6388.2587890625, advantage: 92.2099609375, penalty: 625.0, minibatch_loss: -12.124478340148926
+batch: 21000, network_service[batch 0]: [5 7 7 4 5 7 7 1 5 8 2 7 5 6 1 8 6 1 2 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5871.09375, lagrangian: 6300.78125, baseline: 6331.9794921875, advantage: -31.1982421875, penalty: 429.6875, minibatch_loss: 2.7024307250976562
+batch: 21100, network_service[batch 0]: [4 1 2 2 2 5 8 5 1 6 8 5 5 3 5 5 8 3 4 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5929.6875, lagrangian: 6257.8125, baseline: 6247.30908203125, advantage: 10.50341796875, penalty: 328.125, minibatch_loss: -1.6608765125274658
+batch: 21200, network_service[batch 0]: [2 3 3 7 1 1 7 8 8 5 2 7 4 2 5 1 3 4 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5953.125, lagrangian: 6523.4375, baseline: 6487.78515625, advantage: 35.65234375, penalty: 570.3125, minibatch_loss: -28.510643005371094
+batch: 21300, network_service[batch 0]: [3 6 8 2 5 4 1 1 6 5 4 6 4 2 6 3 3 8 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5926.5625, lagrangian: 6301.5625, baseline: 6435.16455078125, advantage: -133.60205078125, penalty: 375.0, minibatch_loss: -4.139244556427002
+batch: 21400, network_service[batch 0]: [2 6 4 6 8 5 5 2 7 3 4 5 5 8 7 8 1 4 8 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5903.90625, lagrangian: 6474.21875, baseline: 6341.884765625, advantage: 132.333984375, penalty: 570.3125, minibatch_loss: -0.8088088035583496
+batch: 21500, network_service[batch 0]: [7 3 1 4 4 8 8 2 2 5 2 6 4 7 1 7 1 7 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5906.25, lagrangian: 6359.375, baseline: 6366.337890625, advantage: -6.962890625, penalty: 453.125, minibatch_loss: -4.424089431762695
+batch: 21600, network_service[batch 0]: [8 8 2 5 7 8 1 6 1 5 8 3 5 6 1 5 4 5 6 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5914.0625, lagrangian: 6531.25, baseline: 6404.5322265625, advantage: 126.7177734375, penalty: 617.1875, minibatch_loss: -10.985342979431152
+batch: 21700, network_service[batch 0]: [8 8 6 6 5 6 1 6 4 3 4 4 7 2 7 6 7 2 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5964.84375, lagrangian: 6519.53125, baseline: 6649.3115234375, advantage: -129.7802734375, penalty: 554.6875, minibatch_loss: 0.5408309698104858
+batch: 21800, network_service[batch 0]: [7 5 5 5 6 8 8 5 2 7 7 1 8 8 3 8 8 1 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5864.84375, lagrangian: 6341.40625, baseline: 6403.2880859375, advantage: -61.8818359375, penalty: 476.5625, minibatch_loss: -0.19387054443359375
+batch: 21900, network_service[batch 0]: [2 4 3 4 5 5 5 5 1 4 7 4 4 7 6 3 3 5 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5869.53125, lagrangian: 6322.65625, baseline: 6368.505859375, advantage: -45.849609375, penalty: 453.125, minibatch_loss: 0.4628884792327881
+batch: 22000, network_service[batch 0]: [4 3 8 3 6 2 3 4 8 6 4 3 5 4 3 1 5 8 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6400.78125, baseline: 6315.77734375, advantage: 85.00390625, penalty: 507.8125, minibatch_loss: -2.535576343536377
+batch: 22100, network_service[batch 0]: [4 6 1 6 2 1 4 3 4 2 4 1 6 5 2 1 4 4 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5867.1875, lagrangian: 6351.5625, baseline: 6377.306640625, advantage: -25.744140625, penalty: 484.375, minibatch_loss: -15.582738876342773
+batch: 22200, network_service[batch 0]: [8 3 2 8 3 5 6 6 6 6 4 1 1 5 7 8 4 3 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5854.6875, lagrangian: 6425.0, baseline: 6389.806640625, advantage: 35.193359375, penalty: 570.3125, minibatch_loss: -4.464600086212158
+batch: 22300, network_service[batch 0]: [7 7 6 2 4 7 6 7 2 3 6 1 8 3 5 3 3 4 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5925.0, lagrangian: 6401.5625, baseline: 6545.2890625, advantage: -143.7265625, penalty: 476.5625, minibatch_loss: 0.664523184299469
+batch: 22400, network_service[batch 0]: [4 2 6 4 5 5 8 7 4 8 8 1 2 3 2 4 2 8 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5888.28125, lagrangian: 6263.28125, baseline: 6364.1376953125, advantage: -100.8564453125, penalty: 375.0, minibatch_loss: -4.643648147583008
+batch: 22500, network_service[batch 0]: [7 1 1 7 3 5 4 1 7 5 7 6 6 1 6 7 5 4 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5822.65625, lagrangian: 6150.78125, baseline: 6199.35595703125, advantage: -48.57470703125, penalty: 328.125, minibatch_loss: 3.8910553455352783
+batch: 22600, network_service[batch 0]: [6 5 8 7 1 7 4 1 1 2 6 3 3 5 7 1 7 4 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5917.96875, lagrangian: 6410.15625, baseline: 6473.95654296875, advantage: -63.80029296875, penalty: 492.1875, minibatch_loss: 2.80334210395813
+batch: 22700, network_service[batch 0]: [5 7 6 6 6 5 5 2 2 5 6 7 6 6 2 4 3 4 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1.  1.
+ 10. 10.]", reward: 5903.125, lagrangian: 6450.0, baseline: 6227.3837890625, advantage: 222.6162109375, penalty: 546.875, minibatch_loss: -11.6906156539917
+batch: 22800, network_service[batch 0]: [7 4 8 3 7 1 4 1 7 5 8 7 3 5 5 3 3 1 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5893.75, lagrangian: 6409.375, baseline: 6384.75634765625, advantage: 24.61865234375, penalty: 515.625, minibatch_loss: -1.7604843378067017
+batch: 22900, network_service[batch 0]: [3 6 6 7 8 2 1 5 3 8 8 3 3 6 2 2 7 6 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5971.09375, lagrangian: 6478.90625, baseline: 6506.3544921875, advantage: -27.4482421875, penalty: 507.8125, minibatch_loss: -6.968296527862549
+batch: 23000, network_service[batch 0]: [3 2 8 6 1 8 2 5 2 6 2 1 8 2 1 6 7 2 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.8125, lagrangian: 6454.6875, baseline: 6383.318359375, advantage: 71.369140625, penalty: 546.875, minibatch_loss: -0.9773080348968506
+batch: 23100, network_service[batch 0]: [4 8 4 4 4 6 8 1 1 1 1 1 5 1 7 2 8 4 1 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5843.75, lagrangian: 6304.6875, baseline: 6280.95556640625, advantage: 23.73193359375, penalty: 460.9375, minibatch_loss: -5.927934646606445
+batch: 23200, network_service[batch 0]: [1 5 3 6 1 2 4 5 6 7 6 2 1 5 5 4 2 4 6 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5921.09375, lagrangian: 6460.15625, baseline: 6383.34765625, advantage: 76.80859375, penalty: 539.0625, minibatch_loss: -5.846741676330566
+batch: 23300, network_service[batch 0]: [3 4 6 1 4 6 4 7 7 2 1 2 6 5 4 5 5 4 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5827.34375, lagrangian: 6194.53125, baseline: 6239.220703125, advantage: -44.689453125, penalty: 367.1875, minibatch_loss: -1.2064759731292725
+batch: 23400, network_service[batch 0]: [8 2 2 6 8 4 4 1 3 3 7 2 3 7 7 6 5 3 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5903.90625, lagrangian: 6380.46875, baseline: 6559.1328125, advantage: -178.6640625, penalty: 476.5625, minibatch_loss: -0.7602202892303467
+batch: 23500, network_service[batch 0]: [8 6 5 6 5 4 7 1 6 7 5 6 7 2 6 2 4 2 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5914.84375, lagrangian: 6305.46875, baseline: 6304.982421875, advantage: 0.486328125, penalty: 390.625, minibatch_loss: 2.704946517944336
+batch: 23600, network_service[batch 0]: [7 7 2 8 8 4 3 1 5 4 4 2 6 2 2 5 8 6 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5924.21875, lagrangian: 6377.34375, baseline: 6412.0322265625, advantage: -34.6884765625, penalty: 453.125, minibatch_loss: -1.1286232471466064
+batch: 23700, network_service[batch 0]: [3 2 3 1 6 3 4 3 7 2 5 4 4 6 2 4 6 1 6 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5874.21875, lagrangian: 6436.71875, baseline: 6359.4013671875, advantage: 77.3173828125, penalty: 562.5, minibatch_loss: -3.6932997703552246
+batch: 23800, network_service[batch 0]: [7 7 7 7 8 1 5 1 4 1 8 5 3 4 2 2 8 5 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5920.3125, lagrangian: 6443.75, baseline: 6455.931640625, advantage: -12.181640625, penalty: 523.4375, minibatch_loss: -11.679810523986816
+batch: 23900, network_service[batch 0]: [3 1 1 8 4 8 6 2 5 7 8 4 2 1 8 6 2 4 8 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5939.84375, lagrangian: 6572.65625, baseline: 6538.31494140625, advantage: 34.34130859375, penalty: 632.8125, minibatch_loss: -8.053939819335938
+batch: 24000, network_service[batch 0]: [1 2 1 5 2 3 4 1 7 3 3 4 3 5 1 3 6 1 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5930.46875, lagrangian: 6383.59375, baseline: 6353.16064453125, advantage: 30.43310546875, penalty: 453.125, minibatch_loss: -4.989902496337891
+batch: 24100, network_service[batch 0]: [3 2 6 3 5 7 6 4 1 8 2 5 3 2 2 8 3 6 8 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5899.21875, lagrangian: 6250.78125, baseline: 6409.001953125, advantage: -158.220703125, penalty: 351.5625, minibatch_loss: 1.6574641466140747
+batch: 24200, network_service[batch 0]: [7 6 5 5 4 4 3 4 3 6 2 7 4 1 3 8 2 5 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5974.21875, lagrangian: 6497.65625, baseline: 6373.3525390625, advantage: 124.3037109375, penalty: 523.4375, minibatch_loss: -14.917664527893066
+batch: 24300, network_service[batch 0]: [4 8 5 6 1 4 2 5 6 8 2 6 8 6 5 4 3 7 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5854.6875, lagrangian: 6354.6875, baseline: 6343.6962890625, advantage: 10.9912109375, penalty: 500.0, minibatch_loss: -0.328677773475647
+batch: 24400, network_service[batch 0]: [6 1 1 1 7 6 7 5 2 7 4 7 5 8 6 4 1 5 4 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5854.6875, lagrangian: 6307.8125, baseline: 6404.130859375, advantage: -96.318359375, penalty: 453.125, minibatch_loss: -4.131136894226074
+batch: 24500, network_service[batch 0]: [3 6 4 7 5 3 1 8 8 5 6 4 2 5 2 2 2 6 1 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5858.59375, lagrangian: 6225.78125, baseline: 6320.849609375, advantage: -95.068359375, penalty: 367.1875, minibatch_loss: -12.051124572753906
+batch: 24600, network_service[batch 0]: [7 6 5 1 4 7 8 8 8 3 8 3 8 4 6 8 7 5 3 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5859.375, lagrangian: 6296.875, baseline: 6268.28662109375, advantage: 28.58837890625, penalty: 437.5, minibatch_loss: -6.111457824707031
+batch: 24700, network_service[batch 0]: [6 7 2 1 8 7 4 2 7 3 7 6 4 8 5 8 3 6 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5960.15625, lagrangian: 6514.84375, baseline: 6482.03955078125, advantage: 32.80419921875, penalty: 554.6875, minibatch_loss: -4.9162726402282715
+batch: 24800, network_service[batch 0]: [7 6 7 6 7 3 6 2 3 6 6 4 2 8 6 7 3 6 7 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5958.59375, lagrangian: 6521.09375, baseline: 6448.4287109375, advantage: 72.6650390625, penalty: 562.5, minibatch_loss: -3.957484722137451
+batch: 24900, network_service[batch 0]: [5 1 3 5 8 2 2 8 5 5 4 5 1 3 6 3 2 8 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5884.375, lagrangian: 6353.125, baseline: 6432.7998046875, advantage: -79.6748046875, penalty: 468.75, minibatch_loss: 1.2671422958374023
+batch: 25000, network_service[batch 0]: [4 2 1 8 1 5 2 7 5 2 8 5 1 7 6 6 1 3 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1.  1.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6210.9375, baseline: 6331.7998046875, advantage: -120.8623046875, penalty: 312.5, minibatch_loss: 3.272454261779785
+batch: 25100, network_service[batch 0]: [3 1 2 5 6 5 6 6 3 6 6 5 8 4 7 1 4 2 3 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5892.1875, lagrangian: 6392.1875, baseline: 6335.5654296875, advantage: 56.6220703125, penalty: 500.0, minibatch_loss: -10.00870418548584
+batch: 25200, network_service[batch 0]: [8 7 2 6 3 1 6 7 2 1 8 4 4 2 7 1 5 1 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5914.0625, lagrangian: 6335.9375, baseline: 6381.11328125, advantage: -45.17578125, penalty: 421.875, minibatch_loss: -0.2339547872543335
+batch: 25300, network_service[batch 0]: [8 5 7 5 8 2 1 8 5 2 5 1 8 3 2 5 8 4 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5939.84375, lagrangian: 6377.34375, baseline: 6440.470703125, advantage: -63.126953125, penalty: 437.5, minibatch_loss: -3.2103726863861084
+batch: 25400, network_service[batch 0]: [4 3 6 6 7 5 7 8 4 7 5 8 6 2 7 2 6 1 4 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5917.1875, lagrangian: 6448.4375, baseline: 6267.5390625, advantage: 180.8984375, penalty: 531.25, minibatch_loss: -22.037336349487305
+batch: 25500, network_service[batch 0]: [5 8 6 5 8 3 2 6 7 7 2 6 1 2 2 7 1 2 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5889.0625, lagrangian: 6248.4375, baseline: 6274.0615234375, advantage: -25.6240234375, penalty: 359.375, minibatch_loss: -7.551544189453125
+batch: 25600, network_service[batch 0]: [2 6 8 5 3 6 3 3 7 7 6 1 1 1 6 6 4 6 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5868.75, lagrangian: 6329.6875, baseline: 6436.99267578125, advantage: -107.30517578125, penalty: 460.9375, minibatch_loss: 2.901529550552368
+batch: 25700, network_service[batch 0]: [8 3 7 6 5 3 8 3 3 4 4 1 4 1 6 4 5 6 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  1.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6322.65625, baseline: 6366.1142578125, advantage: -43.4580078125, penalty: 429.6875, minibatch_loss: -0.29405152797698975
+batch: 25800, network_service[batch 0]: [8 2 4 5 7 5 6 7 1 2 6 7 6 1 1 8 4 7 5 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6315.625, baseline: 6401.6708984375, advantage: -86.0458984375, penalty: 414.0625, minibatch_loss: -2.493485689163208
+batch: 25900, network_service[batch 0]: [3 8 5 2 5 8 2 2 5 5 1 3 5 1 3 3 6 1 8 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5871.09375, lagrangian: 6339.84375, baseline: 6347.68408203125, advantage: -7.84033203125, penalty: 468.75, minibatch_loss: -0.44214800000190735
+batch: 26000, network_service[batch 0]: [4 3 1 2 2 7 8 5 5 7 6 5 6 7 6 2 2 3 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6333.59375, baseline: 6430.783203125, advantage: -97.189453125, penalty: 437.5, minibatch_loss: -0.2548501789569855
+batch: 26100, network_service[batch 0]: [4 1 4 8 3 4 2 7 3 8 5 3 2 2 3 8 3 4 8 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5874.21875, lagrangian: 6264.84375, baseline: 6297.98828125, advantage: -33.14453125, penalty: 390.625, minibatch_loss: -0.03623354434967041
+batch: 26200, network_service[batch 0]: [4 5 4 8 1 8 7 5 2 1 7 3 1 5 3 6 8 6 3 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5867.96875, lagrangian: 6258.59375, baseline: 6327.56298828125, advantage: -68.96923828125, penalty: 390.625, minibatch_loss: -5.587700843811035
+batch: 26300, network_service[batch 0]: [2 7 2 7 3 6 3 6 3 3 7 1 4 4 8 2 4 6 6 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5940.625, lagrangian: 6518.75, baseline: 6501.2890625, advantage: 17.4609375, penalty: 578.125, minibatch_loss: -14.041426658630371
+batch: 26400, network_service[batch 0]: [6 7 5 6 3 3 4 1 6 8 7 8 3 1 4 6 3 1 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5965.625, lagrangian: 6481.25, baseline: 6419.453125, advantage: 61.796875, penalty: 515.625, minibatch_loss: -1.408800721168518
+batch: 26500, network_service[batch 0]: [5 5 6 5 2 7 3 3 3 1 3 5 2 8 3 1 4 7 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5869.53125, lagrangian: 6314.84375, baseline: 6248.009765625, advantage: 66.833984375, penalty: 445.3125, minibatch_loss: -6.100502014160156
+batch: 26600, network_service[batch 0]: [2 3 6 7 7 1 4 6 6 1 6 3 5 4 5 5 3 3 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5904.6875, lagrangian: 6342.1875, baseline: 6234.361328125, advantage: 107.826171875, penalty: 437.5, minibatch_loss: 1.7399587631225586
+batch: 26700, network_service[batch 0]: [5 4 3 1 7 5 4 3 6 3 6 2 6 2 5 8 3 6 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5885.9375, lagrangian: 6440.625, baseline: 6328.82177734375, advantage: 111.80322265625, penalty: 554.6875, minibatch_loss: -16.094274520874023
+batch: 26800, network_service[batch 0]: [3 5 7 4 1 1 3 5 7 3 7 7 8 6 8 3 5 5 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5867.96875, lagrangian: 6328.90625, baseline: 6343.19091796875, advantage: -14.28466796875, penalty: 460.9375, minibatch_loss: -10.552657127380371
+batch: 26900, network_service[batch 0]: [6 7 7 1 6 3 2 3 6 6 2 7 5 3 5 1 8 3 7 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5885.9375, lagrangian: 6198.4375, baseline: 6343.787109375, advantage: -145.349609375, penalty: 312.5, minibatch_loss: -0.23103749752044678
+batch: 27000, network_service[batch 0]: [6 8 5 7 6 1 5 7 6 1 3 4 5 7 4 1 6 6 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5879.6875, lagrangian: 6364.0625, baseline: 6213.60302734375, advantage: 150.45947265625, penalty: 484.375, minibatch_loss: -12.678528785705566
+batch: 27100, network_service[batch 0]: [1 3 6 6 8 1 3 1 8 2 1 1 2 3 6 3 2 7 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5876.5625, lagrangian: 6282.8125, baseline: 6314.7939453125, advantage: -31.9814453125, penalty: 406.25, minibatch_loss: -4.9590373039245605
+batch: 27200, network_service[batch 0]: [2 2 2 4 2 4 7 5 5 3 6 6 5 2 3 3 6 2 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5900.78125, lagrangian: 6369.53125, baseline: 6309.578125, advantage: 59.953125, penalty: 468.75, minibatch_loss: -8.209369659423828
+batch: 27300, network_service[batch 0]: [3 7 4 1 2 7 8 4 4 5 1 6 1 5 2 2 5 3 5 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5855.46875, lagrangian: 6183.59375, baseline: 6255.607421875, advantage: -72.013671875, penalty: 328.125, minibatch_loss: 1.649985432624817
+batch: 27400, network_service[batch 0]: [1 6 2 8 1 8 6 5 7 8 4 6 3 2 7 7 7 6 6 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5882.8125, lagrangian: 6226.5625, baseline: 6234.51953125, advantage: -7.95703125, penalty: 343.75, minibatch_loss: 3.899447441101074
+batch: 27500, network_service[batch 0]: [3 4 1 1 4 4 7 4 4 2 7 8 7 1 7 3 3 2 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5903.125, lagrangian: 6379.6875, baseline: 6280.3603515625, advantage: 99.3271484375, penalty: 476.5625, minibatch_loss: -3.6531996726989746
+batch: 27600, network_service[batch 0]: [6 4 3 8 6 6 4 4 7 4 5 5 2 3 1 6 4 8 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  1.  1.  1. 10. 10. 10.
+ 10. 10.]", reward: 5860.15625, lagrangian: 6297.65625, baseline: 6332.443359375, advantage: -34.787109375, penalty: 437.5, minibatch_loss: -8.271795272827148
+batch: 27700, network_service[batch 0]: [8 8 8 3 4 8 3 2 4 5 6 8 5 2 4 6 8 4 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5919.53125, lagrangian: 6263.28125, baseline: 6382.263671875, advantage: -118.982421875, penalty: 343.75, minibatch_loss: -2.0558252334594727
+batch: 27800, network_service[batch 0]: [4 8 8 4 8 1 4 2 6 4 5 3 4 4 6 8 4 6 8 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6341.40625, baseline: 6456.84228515625, advantage: -115.43603515625, penalty: 445.3125, minibatch_loss: -1.8538506031036377
+batch: 27900, network_service[batch 0]: [3 6 3 6 3 3 6 5 3 1 2 3 4 1 8 3 8 2 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6260.15625, baseline: 6393.2919921875, advantage: -133.1357421875, penalty: 367.1875, minibatch_loss: 6.944096565246582
+batch: 28000, network_service[batch 0]: [2 5 4 1 7 4 7 7 3 6 4 1 3 8 3 8 5 6 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5917.1875, lagrangian: 6432.8125, baseline: 6351.3564453125, advantage: 81.4560546875, penalty: 515.625, minibatch_loss: 2.0859408378601074
+batch: 28100, network_service[batch 0]: [1 7 2 4 7 1 7 5 1 5 6 3 1 4 2 8 1 3 5 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5937.5, lagrangian: 6617.1875, baseline: 6415.59619140625, advantage: 201.59130859375, penalty: 679.6875, minibatch_loss: -14.42491626739502
+batch: 28200, network_service[batch 0]: [6 4 7 5 5 6 4 5 4 7 4 2 4 7 4 4 3 3 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5832.8125, lagrangian: 6129.6875, baseline: 6168.283203125, advantage: -38.595703125, penalty: 296.875, minibatch_loss: -0.44018954038619995
+batch: 28300, network_service[batch 0]: [1 2 6 3 3 4 2 7 5 3 7 4 6 8 4 8 8 4 6 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.03125, lagrangian: 6446.09375, baseline: 6386.67919921875, advantage: 59.41455078125, penalty: 539.0625, minibatch_loss: -8.598791122436523
+batch: 28400, network_service[batch 0]: [3 1 4 7 8 1 3 1 2 1 3 3 1 8 4 7 8 6 2 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5855.46875, lagrangian: 6363.28125, baseline: 6257.8876953125, advantage: 105.3935546875, penalty: 507.8125, minibatch_loss: -14.79880142211914
+batch: 28500, network_service[batch 0]: [4 4 6 8 8 7 7 7 3 6 2 3 3 4 2 6 3 8 1 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5852.34375, lagrangian: 6274.21875, baseline: 6263.48046875, advantage: 10.73828125, penalty: 421.875, minibatch_loss: 1.2968006134033203
+batch: 28600, network_service[batch 0]: [4 5 7 3 1 5 3 2 5 5 7 8 1 7 8 7 8 1 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5924.21875, lagrangian: 6299.21875, baseline: 6383.03759765625, advantage: -83.81884765625, penalty: 375.0, minibatch_loss: 1.7484626770019531
+batch: 28700, network_service[batch 0]: [6 8 2 2 6 2 7 7 7 7 4 1 3 8 1 5 8 8 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5857.03125, lagrangian: 6192.96875, baseline: 6309.35498046875, advantage: -116.38623046875, penalty: 335.9375, minibatch_loss: -1.9081339836120605
+batch: 28800, network_service[batch 0]: [6 5 5 3 7 1 8 5 8 7 4 6 2 5 6 3 1 6 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5926.5625, lagrangian: 6457.8125, baseline: 6402.53271484375, advantage: 55.27978515625, penalty: 531.25, minibatch_loss: -5.941411972045898
+batch: 28900, network_service[batch 0]: [5 5 8 3 3 6 8 5 8 2 4 5 6 5 4 5 5 2 3 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5882.8125, lagrangian: 6242.1875, baseline: 6268.31884765625, advantage: -26.13134765625, penalty: 359.375, minibatch_loss: -9.352560997009277
+batch: 29000, network_service[batch 0]: [4 7 1 4 7 8 5 1 8 3 5 2 2 8 4 6 8 3 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5806.25, lagrangian: 6235.9375, baseline: 6170.03466796875, advantage: 65.90283203125, penalty: 429.6875, minibatch_loss: -7.3431925773620605
+batch: 29100, network_service[batch 0]: [6 4 4 8 7 2 1 1 2 2 6 6 6 6 4 5 4 4 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1.  1.
+ 10. 10.]", reward: 5848.4375, lagrangian: 6200.0, baseline: 6286.212890625, advantage: -86.212890625, penalty: 351.5625, minibatch_loss: 3.6530423164367676
+batch: 29200, network_service[batch 0]: [8 2 1 8 5 6 4 1 3 2 4 8 3 7 2 8 5 1 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5863.28125, lagrangian: 6324.21875, baseline: 6219.32275390625, advantage: 104.89599609375, penalty: 460.9375, minibatch_loss: -7.444155216217041
+batch: 29300, network_service[batch 0]: [6 2 3 3 5 2 6 7 5 4 2 3 6 7 4 2 4 4 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5999.21875, lagrangian: 6507.03125, baseline: 6468.5263671875, advantage: 38.5048828125, penalty: 507.8125, minibatch_loss: -1.0134153366088867
+batch: 29400, network_service[batch 0]: [6 8 7 8 6 4 7 4 4 2 1 3 5 7 6 4 6 5 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5846.09375, lagrangian: 6244.53125, baseline: 6275.857421875, advantage: -31.326171875, penalty: 398.4375, minibatch_loss: 0.14674371480941772
+batch: 29500, network_service[batch 0]: [3 2 1 8 6 2 1 6 1 2 8 1 1 4 1 5 4 8 8 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5950.0, lagrangian: 6590.625, baseline: 6443.1552734375, advantage: 147.4697265625, penalty: 640.625, minibatch_loss: -2.418492555618286
+batch: 29600, network_service[batch 0]: [3 6 5 6 6 2 7 8 1 4 4 2 7 5 3 6 6 7 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5903.90625, lagrangian: 6388.28125, baseline: 6351.396484375, advantage: 36.884765625, penalty: 484.375, minibatch_loss: -2.6440491676330566
+batch: 29700, network_service[batch 0]: [2 4 2 5 8 2 4 2 4 2 2 7 6 1 3 8 3 2 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5925.78125, lagrangian: 6417.96875, baseline: 6389.34765625, advantage: 28.62109375, penalty: 492.1875, minibatch_loss: -15.846002578735352
+batch: 29800, network_service[batch 0]: [3 3 2 7 1 7 8 1 1 3 3 7 6 8 8 1 3 3 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5886.71875, lagrangian: 6253.90625, baseline: 6328.8798828125, advantage: -74.9736328125, penalty: 367.1875, minibatch_loss: 2.977216958999634
+batch: 29900, network_service[batch 0]: [1 4 8 1 3 1 8 2 3 3 3 2 1 1 2 4 6 4 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5960.15625, lagrangian: 6514.84375, baseline: 6502.17578125, advantage: 12.66796875, penalty: 554.6875, minibatch_loss: -0.36797666549682617
+batch: 30000, network_service[batch 0]: [5 4 4 1 7 8 5 7 8 4 2 6 3 5 4 6 2 2 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5933.59375, lagrangian: 6386.71875, baseline: 6446.9951171875, advantage: -60.2763671875, penalty: 453.125, minibatch_loss: -1.5682520866394043
+batch: 30100, network_service[batch 0]: [4 3 1 3 2 5 4 7 3 6 8 3 6 4 2 1 6 3 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5904.6875, lagrangian: 6342.1875, baseline: 6402.1953125, advantage: -60.0078125, penalty: 437.5, minibatch_loss: -2.3354837894439697
+batch: 30200, network_service[batch 0]: [1 2 1 7 1 5 5 3 3 2 5 4 5 4 8 1 1 7 6 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5877.34375, lagrangian: 6291.40625, baseline: 6344.75537109375, advantage: -53.34912109375, penalty: 414.0625, minibatch_loss: -1.7806639671325684
+batch: 30300, network_service[batch 0]: [2 1 6 1 7 6 8 1 4 1 6 4 1 2 2 1 7 3 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5929.6875, lagrangian: 6554.6875, baseline: 6458.466796875, advantage: 96.220703125, penalty: 625.0, minibatch_loss: -8.415861129760742
+batch: 30400, network_service[batch 0]: [8 2 6 8 6 5 6 2 7 7 2 2 6 5 7 6 6 1 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5925.78125, lagrangian: 6324.21875, baseline: 6345.41015625, advantage: -21.19140625, penalty: 398.4375, minibatch_loss: -3.825819253921509
+batch: 30500, network_service[batch 0]: [6 6 8 3 6 2 6 7 6 4 8 1 4 2 6 5 1 3 3 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5921.875, lagrangian: 6421.875, baseline: 6413.7705078125, advantage: 8.1044921875, penalty: 500.0, minibatch_loss: -1.0939630270004272
+batch: 30600, network_service[batch 0]: [4 1 7 3 7 6 8 1 7 8 5 2 8 6 5 2 8 4 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5896.875, lagrangian: 6271.875, baseline: 6380.5009765625, advantage: -108.6259765625, penalty: 375.0, minibatch_loss: 1.8735649585723877
+batch: 30700, network_service[batch 0]: [7 4 5 8 1 2 6 3 3 8 6 2 7 2 2 4 6 3 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 6021.09375, lagrangian: 6591.40625, baseline: 6561.57421875, advantage: 29.83203125, penalty: 570.3125, minibatch_loss: 0.7870945930480957
+batch: 30800, network_service[batch 0]: [5 4 2 7 6 3 3 5 4 5 6 7 4 8 5 3 5 3 2 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5904.6875, lagrangian: 6326.5625, baseline: 6404.0166015625, advantage: -77.4541015625, penalty: 421.875, minibatch_loss: -6.3116021156311035
+batch: 30900, network_service[batch 0]: [3 1 2 6 8 4 5 3 6 6 3 1 4 1 3 6 2 4 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5891.40625, lagrangian: 6336.71875, baseline: 6267.126953125, advantage: 69.591796875, penalty: 445.3125, minibatch_loss: -2.5574610233306885
+batch: 31000, network_service[batch 0]: [7 1 7 5 2 7 3 7 2 1 2 8 2 8 8 5 6 8 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5981.25, lagrangian: 6356.25, baseline: 6390.2607421875, advantage: -34.0107421875, penalty: 375.0, minibatch_loss: -0.28101181983947754
+batch: 31100, network_service[batch 0]: [5 2 1 6 4 2 3 5 2 7 1 7 2 8 3 4 4 6 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6346.875, baseline: 6398.38037109375, advantage: -51.50537109375, penalty: 445.3125, minibatch_loss: -7.278858184814453
+batch: 31200, network_service[batch 0]: [3 2 1 7 4 8 3 7 2 2 8 8 8 3 4 6 7 7 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5914.84375, lagrangian: 6360.15625, baseline: 6394.28125, advantage: -34.125, penalty: 445.3125, minibatch_loss: -0.720592200756073
+batch: 31300, network_service[batch 0]: [7 1 1 5 8 3 1 5 3 2 8 6 1 4 7 7 8 3 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5964.0625, lagrangian: 6487.5, baseline: 6421.98046875, advantage: 65.51953125, penalty: 523.4375, minibatch_loss: -3.975559949874878
+batch: 31400, network_service[batch 0]: [5 7 2 2 1 8 7 4 2 5 2 1 6 8 3 6 7 1 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5857.03125, lagrangian: 6138.28125, baseline: 6233.439453125, advantage: -95.158203125, penalty: 281.25, minibatch_loss: -0.15023574233055115
+batch: 31500, network_service[batch 0]: [1 1 4 6 5 6 1 5 3 2 8 2 6 2 2 3 8 3 6 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5875.0, lagrangian: 6328.125, baseline: 6233.10498046875, advantage: 95.02001953125, penalty: 453.125, minibatch_loss: -0.9055802822113037
+batch: 31600, network_service[batch 0]: [1 1 7 5 3 5 4 4 2 3 5 6 6 2 1 2 7 6 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5941.40625, lagrangian: 6472.65625, baseline: 6380.7412109375, advantage: 91.9150390625, penalty: 531.25, minibatch_loss: -2.2747066020965576
+batch: 31700, network_service[batch 0]: [5 2 1 8 6 7 5 2 1 7 8 5 8 3 3 3 7 8 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5940.625, lagrangian: 6456.25, baseline: 6375.6708984375, advantage: 80.5791015625, penalty: 515.625, minibatch_loss: -16.54801368713379
+batch: 31800, network_service[batch 0]: [7 6 7 5 4 3 6 7 7 6 6 1 2 1 7 6 2 3 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5946.875, lagrangian: 6360.9375, baseline: 6499.421875, advantage: -138.484375, penalty: 414.0625, minibatch_loss: 1.5462801456451416
+batch: 31900, network_service[batch 0]: [5 7 7 2 5 7 2 3 7 5 2 6 6 8 3 2 1 6 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5907.8125, lagrangian: 6353.125, baseline: 6303.5986328125, advantage: 49.5263671875, penalty: 445.3125, minibatch_loss: -0.008636653423309326
+batch: 32000, network_service[batch 0]: [7 5 6 5 6 8 1 4 5 8 1 2 2 1 6 3 8 5 3 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.8125, lagrangian: 6415.625, baseline: 6372.52490234375, advantage: 43.10009765625, penalty: 507.8125, minibatch_loss: -1.5939476490020752
+batch: 32100, network_service[batch 0]: [2 5 3 1 3 2 6 4 4 3 8 8 6 6 6 4 8 2 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5859.375, lagrangian: 6304.6875, baseline: 6334.2978515625, advantage: -29.6103515625, penalty: 445.3125, minibatch_loss: 0.48097002506256104
+batch: 32200, network_service[batch 0]: [8 1 4 6 5 1 4 8 2 6 4 1 3 4 1 3 3 1 4 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5830.46875, lagrangian: 6221.09375, baseline: 6309.7158203125, advantage: -88.6220703125, penalty: 390.625, minibatch_loss: -3.712284564971924
+batch: 32300, network_service[batch 0]: [5 7 1 3 2 1 1 3 8 3 7 4 4 8 6 3 3 7 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5832.8125, lagrangian: 6340.625, baseline: 6386.3251953125, advantage: -45.7001953125, penalty: 507.8125, minibatch_loss: -4.5429792404174805
+batch: 32400, network_service[batch 0]: [8 8 5 4 3 6 6 4 3 3 1 5 8 5 7 8 1 7 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5813.28125, lagrangian: 6117.96875, baseline: 6214.98974609375, advantage: -97.02099609375, penalty: 304.6875, minibatch_loss: 0.10844334959983826
+batch: 32500, network_service[batch 0]: [2 7 6 4 2 5 7 1 2 1 5 5 3 8 1 7 7 2 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6409.375, baseline: 6328.3046875, advantage: 81.0703125, penalty: 507.8125, minibatch_loss: 2.5509519577026367
+batch: 32600, network_service[batch 0]: [2 7 2 3 5 3 7 6 5 7 6 1 4 2 5 3 2 3 8 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5899.21875, lagrangian: 6430.46875, baseline: 6331.6123046875, advantage: 98.8564453125, penalty: 531.25, minibatch_loss: -2.268710136413574
+batch: 32700, network_service[batch 0]: [6 8 8 8 1 3 2 5 3 1 3 3 3 1 6 8 1 1 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5868.75, lagrangian: 6243.75, baseline: 6239.70556640625, advantage: 4.04443359375, penalty: 375.0, minibatch_loss: -0.14152920246124268
+batch: 32800, network_service[batch 0]: [8 5 1 3 7 1 8 8 5 1 2 3 4 8 4 3 6 4 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5999.21875, lagrangian: 6522.65625, baseline: 6508.3056640625, advantage: 14.3505859375, penalty: 523.4375, minibatch_loss: -1.565780520439148
+batch: 32900, network_service[batch 0]: [5 3 4 3 1 1 5 7 5 7 3 2 7 7 7 7 1 4 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5893.75, lagrangian: 6292.1875, baseline: 6242.61328125, advantage: 49.57421875, penalty: 398.4375, minibatch_loss: -0.9433504343032837
+batch: 33000, network_service[batch 0]: [6 1 4 2 8 7 2 8 1 8 3 5 2 6 6 3 1 2 7 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5880.46875, lagrangian: 6294.53125, baseline: 6340.1298828125, advantage: -45.5986328125, penalty: 414.0625, minibatch_loss: 0.6831547617912292
+batch: 33100, network_service[batch 0]: [8 3 5 3 8 8 4 5 1 6 1 4 6 6 1 6 5 5 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5967.1875, lagrangian: 6435.9375, baseline: 6376.35498046875, advantage: 59.58251953125, penalty: 468.75, minibatch_loss: 0.7088027596473694
+batch: 33200, network_service[batch 0]: [5 8 3 6 7 2 5 8 5 5 6 8 6 8 4 6 1 4 7 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5931.25, lagrangian: 6400.0, baseline: 6366.13720703125, advantage: 33.86279296875, penalty: 468.75, minibatch_loss: -3.0010595321655273
+batch: 33300, network_service[batch 0]: [5 2 5 5 8 3 8 5 8 2 4 2 7 4 8 6 4 1 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1.  1.
+ 10. 10.]", reward: 5900.78125, lagrangian: 6322.65625, baseline: 6426.8818359375, advantage: -104.2255859375, penalty: 421.875, minibatch_loss: -1.6817699670791626
+batch: 33400, network_service[batch 0]: [6 6 7 1 6 1 8 7 2 8 2 8 5 1 5 2 7 6 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5899.21875, lagrangian: 6321.09375, baseline: 6336.783203125, advantage: -15.689453125, penalty: 421.875, minibatch_loss: -1.8346540927886963
+batch: 33500, network_service[batch 0]: [2 5 2 8 1 3 7 6 7 7 5 5 2 2 6 4 5 2 4 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5867.96875, lagrangian: 6172.65625, baseline: 6268.76904296875, advantage: -96.11279296875, penalty: 304.6875, minibatch_loss: 1.110290288925171
+batch: 33600, network_service[batch 0]: [1 2 8 8 1 7 6 1 4 2 8 7 7 7 6 5 6 1 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1.  1.
+ 10. 10.]", reward: 5920.3125, lagrangian: 6404.6875, baseline: 6342.896484375, advantage: 61.791015625, penalty: 484.375, minibatch_loss: -2.389443874359131
+batch: 33700, network_service[batch 0]: [5 5 6 6 7 3 1 1 4 7 1 1 1 5 5 2 1 5 4 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5950.0, lagrangian: 6457.8125, baseline: 6530.29150390625, advantage: -72.47900390625, penalty: 507.8125, minibatch_loss: -1.1624228954315186
+batch: 33800, network_service[batch 0]: [6 6 2 7 1 5 6 2 1 2 6 6 4 7 2 2 6 3 7 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5907.8125, lagrangian: 6282.8125, baseline: 6202.515625, advantage: 80.296875, penalty: 375.0, minibatch_loss: -2.813084602355957
+batch: 33900, network_service[batch 0]: [4 3 5 7 2 5 7 5 8 6 5 2 1 3 4 2 5 2 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5838.28125, lagrangian: 6236.71875, baseline: 6182.4794921875, advantage: 54.2392578125, penalty: 398.4375, minibatch_loss: -0.0936347246170044
+batch: 34000, network_service[batch 0]: [4 7 5 1 8 1 6 2 7 8 1 7 4 3 7 1 4 7 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5858.59375, lagrangian: 6249.21875, baseline: 6195.65966796875, advantage: 53.55908203125, penalty: 390.625, minibatch_loss: 1.710687279701233
+batch: 34100, network_service[batch 0]: [2 2 1 1 7 8 5 7 2 2 1 2 3 5 1 4 2 5 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5939.0625, lagrangian: 6423.4375, baseline: 6421.5986328125, advantage: 1.8388671875, penalty: 484.375, minibatch_loss: -0.21640169620513916
+batch: 34200, network_service[batch 0]: [8 5 7 1 6 8 8 2 7 4 7 2 7 4 4 1 5 3 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5910.9375, lagrangian: 6325.0, baseline: 6388.88671875, advantage: -63.88671875, penalty: 414.0625, minibatch_loss: 0.02084660530090332
+batch: 34300, network_service[batch 0]: [5 4 8 1 2 1 5 2 7 6 1 1 3 6 2 7 4 3 1 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5902.34375, lagrangian: 6433.59375, baseline: 6353.51513671875, advantage: 80.07861328125, penalty: 531.25, minibatch_loss: -5.341013431549072
+batch: 34400, network_service[batch 0]: [5 2 4 4 3 8 1 4 1 6 2 6 2 2 5 4 5 6 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5900.78125, lagrangian: 6314.84375, baseline: 6203.4423828125, advantage: 111.4013671875, penalty: 414.0625, minibatch_loss: -2.5219225883483887
+batch: 34500, network_service[batch 0]: [4 5 1 8 2 2 7 8 4 5 1 6 3 4 8 8 2 1 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5907.03125, lagrangian: 6242.96875, baseline: 6312.03564453125, advantage: -69.06689453125, penalty: 335.9375, minibatch_loss: -1.116858959197998
+batch: 34600, network_service[batch 0]: [5 3 2 2 5 7 3 4 6 1 6 3 8 2 4 1 3 8 8 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5940.625, lagrangian: 6370.3125, baseline: 6417.7158203125, advantage: -47.4033203125, penalty: 429.6875, minibatch_loss: 0.10406494140625
+batch: 34700, network_service[batch 0]: [5 4 1 2 4 4 4 8 5 8 1 4 7 3 3 3 8 1 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5917.96875, lagrangian: 6472.65625, baseline: 6306.5908203125, advantage: 166.0654296875, penalty: 554.6875, minibatch_loss: -7.8887434005737305
+batch: 34800, network_service[batch 0]: [4 4 7 8 5 8 8 3 5 2 6 6 5 4 8 6 1 5 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5982.03125, lagrangian: 6497.65625, baseline: 6459.5283203125, advantage: 38.1279296875, penalty: 515.625, minibatch_loss: -12.025965690612793
+batch: 34900, network_service[batch 0]: [1 3 8 1 4 8 1 4 4 6 8 7 1 1 1 2 4 2 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5884.375, lagrangian: 6259.375, baseline: 6283.10546875, advantage: -23.73046875, penalty: 375.0, minibatch_loss: -5.998897075653076
+batch: 35000, network_service[batch 0]: [3 2 4 4 5 5 4 1 6 7 1 1 1 1 6 4 2 3 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5838.28125, lagrangian: 6166.40625, baseline: 6264.814453125, advantage: -98.408203125, penalty: 328.125, minibatch_loss: -0.03352653980255127
+batch: 35100, network_service[batch 0]: [4 5 6 2 4 2 6 4 5 1 2 5 7 5 1 5 1 8 4 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6317.1875, baseline: 6349.0908203125, advantage: -31.9033203125, penalty: 421.875, minibatch_loss: -3.41105318069458
+batch: 35200, network_service[batch 0]: [2 1 1 6 1 7 1 2 8 3 7 7 8 6 7 8 6 2 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5840.625, lagrangian: 6254.6875, baseline: 6284.708984375, advantage: -30.021484375, penalty: 414.0625, minibatch_loss: 1.204301357269287
+batch: 35300, network_service[batch 0]: [4 4 8 4 8 8 1 8 7 4 6 6 8 6 8 7 4 8 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1.  1.
+ 10. 10.]", reward: 5869.53125, lagrangian: 6330.46875, baseline: 6453.990234375, advantage: -123.521484375, penalty: 460.9375, minibatch_loss: -5.465688228607178
+batch: 35400, network_service[batch 0]: [3 6 2 2 5 5 1 8 3 1 2 7 5 1 6 7 4 2 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5939.0625, lagrangian: 6360.9375, baseline: 6395.7900390625, advantage: -34.8525390625, penalty: 421.875, minibatch_loss: 0.9935982823371887
+batch: 35500, network_service[batch 0]: [2 6 7 4 2 3 5 6 5 2 4 2 7 8 1 6 6 7 7 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5860.9375, lagrangian: 6243.75, baseline: 6204.13916015625, advantage: 39.61083984375, penalty: 382.8125, minibatch_loss: 1.4642739295959473
+batch: 35600, network_service[batch 0]: [1 6 2 1 7 7 2 5 7 7 5 2 5 1 8 1 3 5 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6425.0, baseline: 6373.74853515625, advantage: 51.25146484375, penalty: 523.4375, minibatch_loss: -2.691348075866699
+batch: 35700, network_service[batch 0]: [7 3 7 7 4 3 5 7 7 4 4 5 1 4 8 6 6 2 2 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5875.78125, lagrangian: 6305.46875, baseline: 6359.56494140625, advantage: -54.09619140625, penalty: 429.6875, minibatch_loss: 0.09402966499328613
+batch: 35800, network_service[batch 0]: [2 4 3 8 4 3 4 5 8 1 4 6 7 4 4 4 3 3 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5959.375, lagrangian: 6467.1875, baseline: 6361.2109375, advantage: 105.9765625, penalty: 507.8125, minibatch_loss: 1.430873990058899
+batch: 35900, network_service[batch 0]: [5 5 2 8 6 1 4 7 8 4 1 5 5 6 7 8 4 8 2 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5903.125, lagrangian: 6364.0625, baseline: 6371.4599609375, advantage: -7.3974609375, penalty: 460.9375, minibatch_loss: -2.2183837890625
+batch: 36000, network_service[batch 0]: [8 4 7 6 8 4 4 2 8 7 1 8 6 3 5 2 7 4 6 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5933.59375, lagrangian: 6410.15625, baseline: 6324.4677734375, advantage: 85.6884765625, penalty: 476.5625, minibatch_loss: -12.98513126373291
+batch: 36100, network_service[batch 0]: [2 3 7 7 5 2 8 2 5 6 1 6 1 3 7 8 1 5 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5922.65625, lagrangian: 6297.65625, baseline: 6295.27099609375, advantage: 2.38525390625, penalty: 375.0, minibatch_loss: 2.3502330780029297
+batch: 36200, network_service[batch 0]: [2 8 7 8 2 4 2 4 7 6 4 3 8 7 2 7 4 7 8 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5850.78125, lagrangian: 6217.96875, baseline: 6044.66162109375, advantage: 173.30712890625, penalty: 367.1875, minibatch_loss: -8.637399673461914
+batch: 36300, network_service[batch 0]: [2 4 5 5 2 7 2 4 3 2 2 7 7 6 1 3 4 6 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5853.90625, lagrangian: 6236.71875, baseline: 6225.8349609375, advantage: 10.8837890625, penalty: 382.8125, minibatch_loss: -6.830143928527832
+batch: 36400, network_service[batch 0]: [5 8 2 8 8 6 1 5 8 7 7 3 5 7 2 1 1 8 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6330.46875, baseline: 6265.1494140625, advantage: 65.3193359375, penalty: 437.5, minibatch_loss: -4.19796895980835
+batch: 36500, network_service[batch 0]: [2 8 2 5 4 3 8 4 4 7 7 5 8 5 4 1 6 2 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5853.125, lagrangian: 6189.0625, baseline: 6269.06396484375, advantage: -80.00146484375, penalty: 335.9375, minibatch_loss: 2.5616040229797363
+batch: 36600, network_service[batch 0]: [8 4 5 4 6 3 8 8 1 2 2 5 8 5 3 4 4 2 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5949.21875, lagrangian: 6425.78125, baseline: 6379.125, advantage: 46.65625, penalty: 476.5625, minibatch_loss: 0.30628401041030884
+batch: 36700, network_service[batch 0]: [6 7 1 5 4 5 2 1 1 6 4 5 1 7 5 6 4 2 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5950.0, lagrangian: 6426.5625, baseline: 6337.203125, advantage: 89.359375, penalty: 476.5625, minibatch_loss: -6.841958522796631
+batch: 36800, network_service[batch 0]: [5 1 6 4 1 2 1 1 4 2 3 4 4 1 8 1 5 7 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1. 10. 10. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6356.25, baseline: 6375.22412109375, advantage: -18.97412109375, penalty: 460.9375, minibatch_loss: 1.8999918699264526
+batch: 36900, network_service[batch 0]: [2 5 4 6 7 2 1 1 4 5 1 2 2 5 5 8 8 5 1 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5913.28125, lagrangian: 6452.34375, baseline: 6357.833984375, advantage: 94.509765625, penalty: 539.0625, minibatch_loss: -4.652807235717773
+batch: 37000, network_service[batch 0]: [4 3 3 2 8 8 5 4 1 7 2 2 6 3 4 7 2 1 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5892.96875, lagrangian: 6260.15625, baseline: 6269.1796875, advantage: -9.0234375, penalty: 367.1875, minibatch_loss: 3.765570878982544
+batch: 37100, network_service[batch 0]: [6 8 2 5 2 5 4 7 4 5 7 3 7 5 8 7 4 8 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5871.875, lagrangian: 6301.5625, baseline: 6277.1630859375, advantage: 24.3994140625, penalty: 429.6875, minibatch_loss: -3.9072184562683105
+batch: 37200, network_service[batch 0]: [5 2 2 1 8 5 6 8 6 7 6 7 8 1 3 4 6 5 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5873.4375, lagrangian: 6318.75, baseline: 6259.84228515625, advantage: 58.90771484375, penalty: 445.3125, minibatch_loss: -5.295841693878174
+batch: 37300, network_service[batch 0]: [4 1 2 2 2 7 1 6 2 6 4 2 4 1 5 1 2 3 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5932.8125, lagrangian: 6307.8125, baseline: 6304.6923828125, advantage: 3.1201171875, penalty: 375.0, minibatch_loss: -0.8631763458251953
+batch: 37400, network_service[batch 0]: [6 4 4 3 4 5 6 7 5 3 7 1 3 3 2 3 6 4 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5932.03125, lagrangian: 6369.53125, baseline: 6302.724609375, advantage: 66.806640625, penalty: 437.5, minibatch_loss: -3.433046817779541
+batch: 37500, network_service[batch 0]: [8 1 4 3 7 6 1 5 1 3 8 7 5 4 1 5 5 4 7 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5952.34375, lagrangian: 6413.28125, baseline: 6440.0888671875, advantage: -26.8076171875, penalty: 460.9375, minibatch_loss: -3.3360836505889893
+batch: 37600, network_service[batch 0]: [7 6 8 3 3 5 8 6 8 7 8 7 4 1 3 1 6 1 4 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5962.5, lagrangian: 6587.5, baseline: 6415.0537109375, advantage: 172.4462890625, penalty: 625.0, minibatch_loss: -2.782256841659546
+batch: 37700, network_service[batch 0]: [3 8 3 4 1 6 1 3 2 7 6 8 8 8 8 3 5 2 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6289.0625, baseline: 6251.48876953125, advantage: 37.57373046875, penalty: 390.625, minibatch_loss: -1.4830920696258545
+batch: 37800, network_service[batch 0]: [1 6 3 5 8 6 4 7 5 2 7 1 2 3 3 2 2 3 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5846.09375, lagrangian: 6182.03125, baseline: 6268.7392578125, advantage: -86.7080078125, penalty: 335.9375, minibatch_loss: -1.7083063125610352
+batch: 37900, network_service[batch 0]: [1 7 7 4 6 4 6 7 2 8 5 2 1 7 4 2 3 3 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5896.875, lagrangian: 6264.0625, baseline: 6346.20361328125, advantage: -82.14111328125, penalty: 367.1875, minibatch_loss: 2.227757453918457
+batch: 38000, network_service[batch 0]: [7 8 7 4 4 7 7 4 6 8 3 6 3 5 2 8 6 8 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5889.0625, lagrangian: 6396.875, baseline: 6388.99609375, advantage: 7.87890625, penalty: 507.8125, minibatch_loss: -4.321961402893066
+batch: 38100, network_service[batch 0]: [3 4 3 7 2 7 6 8 4 8 1 6 2 8 3 2 6 2 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5935.9375, lagrangian: 6443.75, baseline: 6307.2255859375, advantage: 136.5244140625, penalty: 507.8125, minibatch_loss: -5.301968574523926
+batch: 38200, network_service[batch 0]: [7 8 5 7 3 6 1 6 7 3 5 2 3 3 2 5 3 3 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5838.28125, lagrangian: 6252.34375, baseline: 6204.52197265625, advantage: 47.82177734375, penalty: 414.0625, minibatch_loss: -5.628801345825195
+batch: 38300, network_service[batch 0]: [4 3 6 2 7 5 2 3 2 5 4 1 1 3 2 1 6 4 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5896.09375, lagrangian: 6333.59375, baseline: 6378.8642578125, advantage: -45.2705078125, penalty: 437.5, minibatch_loss: 0.1563711166381836
+batch: 38400, network_service[batch 0]: [3 4 2 5 7 4 6 6 4 3 7 8 2 7 3 4 6 4 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5870.3125, lagrangian: 6237.5, baseline: 6297.25048828125, advantage: -59.75048828125, penalty: 367.1875, minibatch_loss: 4.04382848739624
+batch: 38500, network_service[batch 0]: [7 4 5 7 2 5 2 5 6 4 8 4 2 1 8 2 6 2 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5862.5, lagrangian: 6182.8125, baseline: 6349.3662109375, advantage: -166.5537109375, penalty: 320.3125, minibatch_loss: -0.38419902324676514
+batch: 38600, network_service[batch 0]: [5 2 3 6 4 8 6 6 7 2 3 4 7 7 3 6 1 2 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5918.75, lagrangian: 6301.5625, baseline: 6461.0830078125, advantage: -159.5205078125, penalty: 382.8125, minibatch_loss: 4.515988826751709
+batch: 38700, network_service[batch 0]: [4 5 1 5 7 8 2 7 7 5 4 5 6 5 1 5 2 1 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5864.0625, lagrangian: 6145.3125, baseline: 6220.7763671875, advantage: -75.4638671875, penalty: 281.25, minibatch_loss: 0.2281070351600647
+batch: 38800, network_service[batch 0]: [1 4 1 7 1 7 4 6 6 3 8 8 8 7 1 5 3 7 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5960.9375, lagrangian: 6476.5625, baseline: 6434.73046875, advantage: 41.83203125, penalty: 515.625, minibatch_loss: -1.3669182062149048
+batch: 38900, network_service[batch 0]: [8 3 7 3 1 2 5 3 5 8 3 4 2 8 7 3 2 7 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5952.34375, lagrangian: 6366.40625, baseline: 6340.314453125, advantage: 26.091796875, penalty: 414.0625, minibatch_loss: -4.286114692687988
+batch: 39000, network_service[batch 0]: [1 3 6 6 4 8 5 2 8 5 2 6 5 8 5 7 6 7 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5877.34375, lagrangian: 6244.53125, baseline: 6291.21875, advantage: -46.6875, penalty: 367.1875, minibatch_loss: 0.6657702326774597
+batch: 39100, network_service[batch 0]: [8 2 6 3 7 5 2 7 3 2 2 5 1 6 5 1 7 1 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5908.59375, lagrangian: 6330.46875, baseline: 6365.60400390625, advantage: -35.13525390625, penalty: 421.875, minibatch_loss: 0.33847400546073914
+batch: 39200, network_service[batch 0]: [6 5 6 6 5 2 3 7 5 1 4 8 6 7 8 8 7 7 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5857.03125, lagrangian: 6278.90625, baseline: 6435.7353515625, advantage: -156.8291015625, penalty: 421.875, minibatch_loss: 4.131246089935303
+batch: 39300, network_service[batch 0]: [2 2 5 4 1 2 7 3 4 2 4 6 6 4 4 7 1 1 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5949.21875, lagrangian: 6316.40625, baseline: 6276.33203125, advantage: 40.07421875, penalty: 367.1875, minibatch_loss: 1.973204255104065
+batch: 39400, network_service[batch 0]: [8 4 5 6 3 8 1 5 7 2 1 5 6 7 6 1 6 1 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5846.09375, lagrangian: 6322.65625, baseline: 6289.1845703125, advantage: 33.4716796875, penalty: 476.5625, minibatch_loss: -1.3121142387390137
+batch: 39500, network_service[batch 0]: [4 5 3 2 6 5 4 2 2 7 2 3 1 4 2 1 6 4 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5952.34375, lagrangian: 6413.28125, baseline: 6428.552734375, advantage: -15.271484375, penalty: 460.9375, minibatch_loss: 1.5816013813018799
+batch: 39600, network_service[batch 0]: [8 8 1 2 4 7 5 7 1 4 5 3 8 8 3 6 7 2 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1.  1.
+ 10. 10.]", reward: 5914.0625, lagrangian: 6281.25, baseline: 6197.1826171875, advantage: 84.0673828125, penalty: 367.1875, minibatch_loss: -1.6375092267990112
+batch: 39700, network_service[batch 0]: [4 2 8 7 7 1 6 3 1 5 3 7 5 5 4 6 6 5 8 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5863.28125, lagrangian: 6277.34375, baseline: 6239.87060546875, advantage: 37.47314453125, penalty: 414.0625, minibatch_loss: -0.5694206357002258
+batch: 39800, network_service[batch 0]: [7 1 3 4 5 7 8 3 3 1 7 8 4 5 5 6 6 7 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5885.9375, lagrangian: 6245.3125, baseline: 6284.68798828125, advantage: -39.37548828125, penalty: 359.375, minibatch_loss: -0.884748101234436
+batch: 39900, network_service[batch 0]: [7 5 3 1 6 3 2 7 2 5 2 2 8 6 5 7 1 4 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5877.34375, lagrangian: 6221.09375, baseline: 6342.02734375, advantage: -120.93359375, penalty: 343.75, minibatch_loss: -2.901679039001465
+batch: 40000, network_service[batch 0]: [6 7 4 6 3 5 4 2 3 2 6 5 6 2 6 3 4 7 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5855.46875, lagrangian: 6253.90625, baseline: 6264.1015625, advantage: -10.1953125, penalty: 398.4375, minibatch_loss: 0.5156810283660889
+batch: 40100, network_service[batch 0]: [2 7 4 2 4 2 4 8 3 6 2 4 8 3 1 8 3 6 4 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5893.75, lagrangian: 6284.375, baseline: 6305.283203125, advantage: -20.908203125, penalty: 390.625, minibatch_loss: -4.334145545959473
+batch: 40200, network_service[batch 0]: [8 1 6 2 3 6 3 2 4 2 1 5 2 1 5 8 1 3 6 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5928.125, lagrangian: 6443.75, baseline: 6447.53173828125, advantage: -3.78173828125, penalty: 515.625, minibatch_loss: -5.89935302734375
+batch: 40300, network_service[batch 0]: [5 1 5 8 2 3 5 1 3 6 4 1 3 3 6 6 8 4 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5888.28125, lagrangian: 6161.71875, baseline: 6217.611328125, advantage: -55.892578125, penalty: 273.4375, minibatch_loss: 0.30253756046295166
+batch: 40400, network_service[batch 0]: [3 2 6 4 1 8 3 3 4 7 5 2 4 1 4 7 1 7 8 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5906.25, lagrangian: 6429.6875, baseline: 6378.5234375, advantage: 51.1640625, penalty: 523.4375, minibatch_loss: -0.535408616065979
+batch: 40500, network_service[batch 0]: [5 2 4 6 6 4 1 4 1 4 5 4 4 8 1 5 4 2 7 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5842.1875, lagrangian: 6232.8125, baseline: 6255.783203125, advantage: -22.970703125, penalty: 390.625, minibatch_loss: -3.1373450756073
+batch: 40600, network_service[batch 0]: [5 2 8 2 7 4 2 8 7 1 1 1 3 3 7 6 2 2 4 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5884.375, lagrangian: 6243.75, baseline: 6316.7646484375, advantage: -73.0146484375, penalty: 359.375, minibatch_loss: 0.23026227951049805
+batch: 40700, network_service[batch 0]: [5 2 5 5 8 8 3 8 4 1 6 7 6 1 1 8 2 8 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5846.09375, lagrangian: 6080.46875, baseline: 6177.95263671875, advantage: -97.48388671875, penalty: 234.375, minibatch_loss: 1.5426974296569824
+batch: 40800, network_service[batch 0]: [7 6 1 2 3 7 8 1 2 8 4 2 2 5 4 7 3 6 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5928.125, lagrangian: 6389.0625, baseline: 6327.14453125, advantage: 61.91796875, penalty: 460.9375, minibatch_loss: -0.6201690435409546
+batch: 40900, network_service[batch 0]: [6 7 6 1 7 6 4 5 2 3 7 8 2 7 6 5 8 2 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5854.6875, lagrangian: 6198.4375, baseline: 6214.1025390625, advantage: -15.6650390625, penalty: 343.75, minibatch_loss: -5.628798961639404
+batch: 41000, network_service[batch 0]: [4 7 2 2 8 2 1 8 6 7 5 5 5 1 2 5 8 4 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5934.375, lagrangian: 6473.4375, baseline: 6430.13671875, advantage: 43.30078125, penalty: 539.0625, minibatch_loss: -1.6444661617279053
+batch: 41100, network_service[batch 0]: [8 3 6 5 6 3 1 4 2 8 1 6 4 4 4 3 4 5 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5885.9375, lagrangian: 6331.25, baseline: 6333.0341796875, advantage: -1.7841796875, penalty: 445.3125, minibatch_loss: -5.367513179779053
+batch: 41200, network_service[batch 0]: [8 7 1 1 8 1 6 4 6 6 2 2 1 6 4 2 3 5 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5989.0625, lagrangian: 6457.8125, baseline: 6448.90771484375, advantage: 8.90478515625, penalty: 468.75, minibatch_loss: -8.502470970153809
+batch: 41300, network_service[batch 0]: [7 8 1 8 3 2 6 3 8 4 6 2 1 6 7 7 2 3 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5923.4375, lagrangian: 6360.9375, baseline: 6336.9638671875, advantage: 23.9736328125, penalty: 437.5, minibatch_loss: -6.517676830291748
+batch: 41400, network_service[batch 0]: [8 7 1 4 3 7 4 1 7 8 1 1 7 4 7 5 3 4 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5938.28125, lagrangian: 6414.84375, baseline: 6406.529296875, advantage: 8.314453125, penalty: 476.5625, minibatch_loss: -3.4677228927612305
+batch: 41500, network_service[batch 0]: [8 1 6 6 8 2 7 8 5 5 1 4 7 1 5 8 3 4 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5903.90625, lagrangian: 6271.09375, baseline: 6373.05859375, advantage: -101.96484375, penalty: 367.1875, minibatch_loss: 1.3991467952728271
+batch: 41600, network_service[batch 0]: [3 5 8 1 1 5 4 8 1 5 7 8 5 1 2 4 5 8 5 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5925.78125, lagrangian: 6472.65625, baseline: 6368.8818359375, advantage: 103.7744140625, penalty: 546.875, minibatch_loss: -3.854116916656494
+batch: 41700, network_service[batch 0]: [6 1 8 1 8 5 2 3 5 6 8 7 3 2 4 8 1 5 3 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5913.28125, lagrangian: 6405.46875, baseline: 6356.57763671875, advantage: 48.89111328125, penalty: 492.1875, minibatch_loss: -2.263962507247925
+batch: 41800, network_service[batch 0]: [4 7 1 3 4 2 2 4 8 4 4 7 5 6 3 4 5 3 8 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5954.6875, lagrangian: 6462.5, baseline: 6359.6748046875, advantage: 102.8251953125, penalty: 507.8125, minibatch_loss: -7.5163679122924805
+batch: 41900, network_service[batch 0]: [7 3 5 2 5 4 3 8 8 8 4 5 5 4 8 8 6 4 7 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5992.96875, lagrangian: 6571.09375, baseline: 6462.302734375, advantage: 108.791015625, penalty: 578.125, minibatch_loss: -9.007558822631836
+batch: 42000, network_service[batch 0]: [1 2 6 6 2 5 7 5 6 3 4 3 8 5 1 1 5 3 7 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5876.5625, lagrangian: 6345.3125, baseline: 6311.2958984375, advantage: 34.0166015625, penalty: 468.75, minibatch_loss: -0.9689198732376099
+batch: 42100, network_service[batch 0]: [2 7 5 1 6 8 2 1 4 2 6 8 3 3 4 5 6 5 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1.  1.
+ 10. 10.]", reward: 5869.53125, lagrangian: 6330.46875, baseline: 6323.66015625, advantage: 6.80859375, penalty: 460.9375, minibatch_loss: -1.4357578754425049
+batch: 42200, network_service[batch 0]: [4 7 1 5 1 7 8 4 3 7 7 4 4 1 5 8 7 2 2 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6418.75, baseline: 6340.43359375, advantage: 78.31640625, penalty: 523.4375, minibatch_loss: -3.2556333541870117
+batch: 42300, network_service[batch 0]: [8 3 7 1 3 6 4 5 5 5 3 5 6 4 3 6 6 6 5 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5949.21875, lagrangian: 6472.65625, baseline: 6483.09130859375, advantage: -10.43505859375, penalty: 523.4375, minibatch_loss: -2.982372760772705
+batch: 42400, network_service[batch 0]: [2 3 2 3 1 2 5 8 8 3 7 6 4 4 8 2 6 7 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5823.4375, lagrangian: 6307.8125, baseline: 6192.16796875, advantage: 115.64453125, penalty: 484.375, minibatch_loss: -10.091314315795898
+batch: 42500, network_service[batch 0]: [3 5 3 3 6 7 1 7 8 2 7 6 6 5 1 6 6 7 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5919.53125, lagrangian: 6286.71875, baseline: 6341.361328125, advantage: -54.642578125, penalty: 367.1875, minibatch_loss: -0.6037218570709229
+batch: 42600, network_service[batch 0]: [6 3 3 6 8 6 3 6 2 2 2 8 3 5 1 4 3 6 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5818.75, lagrangian: 6170.3125, baseline: 6203.25732421875, advantage: -32.94482421875, penalty: 351.5625, minibatch_loss: 0.8654216527938843
+batch: 42700, network_service[batch 0]: [1 1 7 5 3 7 4 5 5 2 2 8 5 1 8 1 3 8 8 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5910.15625, lagrangian: 6308.59375, baseline: 6319.369140625, advantage: -10.775390625, penalty: 398.4375, minibatch_loss: 0.5779789686203003
+batch: 42800, network_service[batch 0]: [4 2 7 8 5 6 4 5 7 6 1 1 4 1 7 8 5 6 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5841.40625, lagrangian: 6278.90625, baseline: 6249.55224609375, advantage: 29.35400390625, penalty: 437.5, minibatch_loss: -1.4749817848205566
+batch: 42900, network_service[batch 0]: [2 1 5 3 2 6 2 1 2 5 1 8 3 6 1 6 2 7 4 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5965.625, lagrangian: 6395.3125, baseline: 6422.5380859375, advantage: -27.2255859375, penalty: 429.6875, minibatch_loss: 3.0348808765411377
+batch: 43000, network_service[batch 0]: [1 1 5 2 1 3 1 5 6 7 4 1 6 1 5 5 3 3 2 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5970.3125, lagrangian: 6579.6875, baseline: 6531.677734375, advantage: 48.009765625, penalty: 609.375, minibatch_loss: -3.846550464630127
+batch: 43100, network_service[batch 0]: [4 2 5 5 2 8 5 8 3 2 7 6 5 3 2 1 5 6 1 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5900.0, lagrangian: 6485.9375, baseline: 6394.6865234375, advantage: 91.2509765625, penalty: 585.9375, minibatch_loss: -4.745061874389648
+batch: 43200, network_service[batch 0]: [4 1 7 8 6 5 6 5 4 3 5 4 5 6 5 1 8 5 2 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6192.1875, baseline: 6368.7294921875, advantage: -176.5419921875, penalty: 296.875, minibatch_loss: 1.4322278499603271
+batch: 43300, network_service[batch 0]: [1 4 4 1 5 8 4 3 7 1 5 8 3 3 8 1 8 7 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5908.59375, lagrangian: 6330.46875, baseline: 6279.8134765625, advantage: 50.6552734375, penalty: 421.875, minibatch_loss: 1.4216761589050293
+batch: 43400, network_service[batch 0]: [8 3 6 4 5 8 6 8 7 3 4 7 1 6 3 5 6 8 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1. 10. 10. 10.
+ 10. 10.]", reward: 5877.34375, lagrangian: 6338.28125, baseline: 6415.6015625, advantage: -77.3203125, penalty: 460.9375, minibatch_loss: -0.8994557857513428
+batch: 43500, network_service[batch 0]: [1 8 1 3 2 8 3 1 6 3 5 8 2 7 4 6 2 4 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5871.875, lagrangian: 6301.5625, baseline: 6286.06640625, advantage: 15.49609375, penalty: 429.6875, minibatch_loss: 1.9691743850708008
+batch: 43600, network_service[batch 0]: [3 6 8 8 5 7 5 8 3 4 2 3 3 2 4 1 2 7 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5889.84375, lagrangian: 6280.46875, baseline: 6272.4169921875, advantage: 8.0517578125, penalty: 390.625, minibatch_loss: -5.222269535064697
+batch: 43700, network_service[batch 0]: [4 3 7 4 2 5 8 2 2 5 3 1 2 3 8 5 7 8 5 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5873.4375, lagrangian: 6271.875, baseline: 6273.43505859375, advantage: -1.56005859375, penalty: 398.4375, minibatch_loss: -1.8265678882598877
+batch: 43800, network_service[batch 0]: [1 7 4 2 6 5 8 4 3 8 6 4 5 3 3 3 8 7 8 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5927.34375, lagrangian: 6403.90625, baseline: 6439.1943359375, advantage: -35.2880859375, penalty: 476.5625, minibatch_loss: 0.3546702265739441
+batch: 43900, network_service[batch 0]: [3 1 8 1 1 4 5 5 1 4 4 2 4 3 6 8 8 7 1 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5875.0, lagrangian: 6273.4375, baseline: 6284.86181640625, advantage: -11.42431640625, penalty: 398.4375, minibatch_loss: 1.6531635522842407
+batch: 44000, network_service[batch 0]: [6 8 2 4 8 5 6 6 2 8 5 2 6 6 2 6 7 8 5 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5863.28125, lagrangian: 6316.40625, baseline: 6337.94384765625, advantage: -21.53759765625, penalty: 453.125, minibatch_loss: -0.8416600227355957
+batch: 44100, network_service[batch 0]: [3 2 6 1 2 6 5 5 7 4 3 6 4 8 8 2 1 8 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6284.375, baseline: 6333.2880859375, advantage: -48.9130859375, penalty: 382.8125, minibatch_loss: -4.595023155212402
+batch: 44200, network_service[batch 0]: [8 2 1 2 8 2 6 2 6 3 5 8 5 7 2 3 2 7 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5938.28125, lagrangian: 6360.15625, baseline: 6393.88623046875, advantage: -33.72998046875, penalty: 421.875, minibatch_loss: -1.7570538520812988
+batch: 44300, network_service[batch 0]: [7 6 1 7 5 6 8 2 3 4 7 2 1 3 2 7 1 6 8 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1. 10. 10. 10.
+ 10. 10.]", reward: 5894.53125, lagrangian: 6363.28125, baseline: 6259.603515625, advantage: 103.677734375, penalty: 468.75, minibatch_loss: 1.0180621147155762
+batch: 44400, network_service[batch 0]: [7 6 7 1 1 6 2 3 4 7 6 4 5 1 2 6 5 4 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5970.3125, lagrangian: 6462.5, baseline: 6401.6328125, advantage: 60.8671875, penalty: 492.1875, minibatch_loss: -0.3823728561401367
+batch: 44500, network_service[batch 0]: [2 3 3 8 1 8 3 8 1 3 1 3 8 6 8 7 3 8 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5931.25, lagrangian: 6415.625, baseline: 6342.078125, advantage: 73.546875, penalty: 484.375, minibatch_loss: 0.38695770502090454
+batch: 44600, network_service[batch 0]: [3 4 7 4 6 2 7 1 2 8 8 1 3 1 5 7 8 1 2 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5867.96875, lagrangian: 6250.78125, baseline: 6319.482421875, advantage: -68.701171875, penalty: 382.8125, minibatch_loss: 4.581784248352051
+batch: 44700, network_service[batch 0]: [3 4 5 2 5 5 5 5 3 8 4 7 5 6 2 5 6 1 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5885.15625, lagrangian: 6361.71875, baseline: 6256.47265625, advantage: 105.24609375, penalty: 476.5625, minibatch_loss: -1.4335728883743286
+batch: 44800, network_service[batch 0]: [8 4 6 2 8 7 3 5 6 2 6 8 2 3 4 3 7 3 1 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5910.9375, lagrangian: 6379.6875, baseline: 6387.978515625, advantage: -8.291015625, penalty: 468.75, minibatch_loss: 1.4905781745910645
+batch: 44900, network_service[batch 0]: [8 5 6 6 3 2 8 1 4 7 3 4 1 7 3 6 1 3 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5910.9375, lagrangian: 6371.875, baseline: 6395.5380859375, advantage: -23.6630859375, penalty: 460.9375, minibatch_loss: -0.8200526833534241
+batch: 45000, network_service[batch 0]: [5 8 1 6 3 7 6 7 7 3 6 5 7 5 7 6 3 2 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5845.3125, lagrangian: 6095.3125, baseline: 6206.43603515625, advantage: -111.12353515625, penalty: 250.0, minibatch_loss: 0.488982230424881
+batch: 45100, network_service[batch 0]: [3 4 2 4 5 4 4 5 7 6 2 5 7 2 8 8 2 7 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5886.71875, lagrangian: 6253.90625, baseline: 6267.13818359375, advantage: -13.23193359375, penalty: 367.1875, minibatch_loss: -0.48116910457611084
+batch: 45200, network_service[batch 0]: [3 3 4 8 8 5 7 8 8 2 6 1 3 3 7 1 1 3 1 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5880.46875, lagrangian: 6247.65625, baseline: 6260.21533203125, advantage: -12.55908203125, penalty: 367.1875, minibatch_loss: -4.567691802978516
+batch: 45300, network_service[batch 0]: [6 8 1 2 6 7 6 4 3 7 1 2 5 6 2 7 1 4 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5841.40625, lagrangian: 6185.15625, baseline: 6228.357421875, advantage: -43.201171875, penalty: 343.75, minibatch_loss: 3.016371250152588
+batch: 45400, network_service[batch 0]: [1 3 4 3 2 2 8 1 4 7 5 2 1 7 1 3 8 7 5 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5880.46875, lagrangian: 6255.46875, baseline: 6294.11865234375, advantage: -38.64990234375, penalty: 375.0, minibatch_loss: -1.7434697151184082
+batch: 45500, network_service[batch 0]: [5 8 8 3 5 1 1 1 3 6 1 2 4 4 4 5 7 4 3 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5810.9375, lagrangian: 6170.3125, baseline: 6203.88232421875, advantage: -33.56982421875, penalty: 359.375, minibatch_loss: 3.636270523071289
+batch: 45600, network_service[batch 0]: [5 5 5 3 6 6 3 6 2 7 5 2 6 4 8 3 1 5 7 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5883.59375, lagrangian: 6313.28125, baseline: 6273.748046875, advantage: 39.533203125, penalty: 429.6875, minibatch_loss: -1.520272970199585
+batch: 45700, network_service[batch 0]: [3 8 7 7 4 6 2 7 4 2 4 4 6 3 4 4 8 2 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5881.25, lagrangian: 6350.0, baseline: 6245.2158203125, advantage: 104.7841796875, penalty: 468.75, minibatch_loss: -3.024397373199463
+batch: 45800, network_service[batch 0]: [1 8 4 5 4 3 3 1 5 2 3 7 3 3 2 8 5 1 3 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5931.25, lagrangian: 6321.875, baseline: 6298.3388671875, advantage: 23.5361328125, penalty: 390.625, minibatch_loss: 4.909783840179443
+batch: 45900, network_service[batch 0]: [5 2 2 6 7 7 2 5 8 3 3 2 2 1 8 8 7 7 5 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5878.90625, lagrangian: 6316.40625, baseline: 6341.3046875, advantage: -24.8984375, penalty: 437.5, minibatch_loss: -0.5089496970176697
+batch: 46000, network_service[batch 0]: [4 8 1 2 4 4 8 3 2 1 3 2 6 1 6 3 7 3 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5883.59375, lagrangian: 6438.28125, baseline: 6410.63671875, advantage: 27.64453125, penalty: 554.6875, minibatch_loss: -0.46156853437423706
+batch: 46100, network_service[batch 0]: [6 1 6 8 6 1 3 7 5 7 3 1 7 8 3 5 8 4 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5870.3125, lagrangian: 6370.3125, baseline: 6257.69287109375, advantage: 112.61962890625, penalty: 500.0, minibatch_loss: -0.7749257683753967
+batch: 46200, network_service[batch 0]: [2 6 7 3 1 7 3 8 1 3 8 6 1 8 6 7 1 5 2 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5861.71875, lagrangian: 6174.21875, baseline: 6112.0146484375, advantage: 62.2041015625, penalty: 312.5, minibatch_loss: -4.386569976806641
+batch: 46300, network_service[batch 0]: [7 3 1 5 5 7 3 7 5 3 7 2 5 2 5 5 5 7 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5913.28125, lagrangian: 6296.09375, baseline: 6261.37744140625, advantage: 34.71630859375, penalty: 382.8125, minibatch_loss: -3.708897113800049
+batch: 46400, network_service[batch 0]: [1 5 6 7 3 7 3 3 3 2 2 2 6 3 4 8 4 8 1 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5782.8125, lagrangian: 6079.6875, baseline: 6087.30322265625, advantage: -7.61572265625, penalty: 296.875, minibatch_loss: -2.6717636585235596
+batch: 46500, network_service[batch 0]: [3 8 4 2 5 6 5 8 1 4 8 3 7 6 4 7 5 6 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5898.4375, lagrangian: 6335.9375, baseline: 6378.84765625, advantage: -42.91015625, penalty: 437.5, minibatch_loss: -7.409208297729492
+batch: 46600, network_service[batch 0]: [7 6 7 3 3 8 3 8 8 8 5 1 4 8 3 6 4 5 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5900.0, lagrangian: 6235.9375, baseline: 6338.66650390625, advantage: -102.72900390625, penalty: 335.9375, minibatch_loss: -0.9589948654174805
+batch: 46700, network_service[batch 0]: [6 6 2 8 7 2 6 2 6 3 6 2 5 3 6 7 5 4 2 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5909.375, lagrangian: 6362.5, baseline: 6310.8984375, advantage: 51.6015625, penalty: 453.125, minibatch_loss: -0.3401874303817749
+batch: 46800, network_service[batch 0]: [5 4 5 3 7 7 2 8 4 1 5 8 4 7 5 2 2 5 6 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5914.84375, lagrangian: 6242.96875, baseline: 6326.0087890625, advantage: -83.0400390625, penalty: 328.125, minibatch_loss: -0.7381393909454346
+batch: 46900, network_service[batch 0]: [5 5 7 1 2 6 4 7 7 2 3 4 7 4 7 3 2 8 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5888.28125, lagrangian: 6286.71875, baseline: 6240.1767578125, advantage: 46.5419921875, penalty: 398.4375, minibatch_loss: -0.31043529510498047
+batch: 47000, network_service[batch 0]: [4 2 2 8 7 5 6 6 8 3 4 6 4 8 4 3 4 2 7 8]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5918.75, lagrangian: 6285.9375, baseline: 6357.681640625, advantage: -71.744140625, penalty: 367.1875, minibatch_loss: 0.13586723804473877
+batch: 47100, network_service[batch 0]: [7 8 5 1 7 8 6 3 4 4 1 3 7 7 8 7 3 3 5 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5901.5625, lagrangian: 6159.375, baseline: 6315.08935546875, advantage: -155.71435546875, penalty: 257.8125, minibatch_loss: 1.0914044380187988
+batch: 47200, network_service[batch 0]: [6 1 4 8 8 5 7 3 6 3 3 5 3 6 5 2 4 6 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5845.3125, lagrangian: 6298.4375, baseline: 6333.4580078125, advantage: -35.0205078125, penalty: 453.125, minibatch_loss: -0.8528401851654053
+batch: 47300, network_service[batch 0]: [3 3 4 4 4 8 5 3 5 2 6 4 5 3 4 4 2 4 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5853.90625, lagrangian: 6189.84375, baseline: 6229.173828125, advantage: -39.330078125, penalty: 335.9375, minibatch_loss: -1.2160704135894775
+batch: 47400, network_service[batch 0]: [7 2 2 1 1 1 5 3 3 6 8 8 5 2 7 8 6 7 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5867.1875, lagrangian: 6382.8125, baseline: 6251.046875, advantage: 131.765625, penalty: 515.625, minibatch_loss: 1.5197138786315918
+batch: 47500, network_service[batch 0]: [6 4 1 1 6 6 4 4 7 1 8 1 3 6 2 5 2 6 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5885.15625, lagrangian: 6291.40625, baseline: 6288.80078125, advantage: 2.60546875, penalty: 406.25, minibatch_loss: -7.065372467041016
+batch: 47600, network_service[batch 0]: [4 7 7 5 6 4 8 5 2 6 5 8 2 6 6 7 3 5 3 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5842.96875, lagrangian: 6233.59375, baseline: 6205.201171875, advantage: 28.392578125, penalty: 390.625, minibatch_loss: -0.99030601978302
+batch: 47700, network_service[batch 0]: [1 3 8 7 8 6 8 1 7 5 2 4 4 1 3 4 8 2 1 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5878.90625, lagrangian: 6292.96875, baseline: 6263.0302734375, advantage: 29.9384765625, penalty: 414.0625, minibatch_loss: 1.2890385389328003
+batch: 47800, network_service[batch 0]: [5 2 4 7 5 6 3 2 1 2 5 4 1 2 6 8 1 7 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5884.375, lagrangian: 6251.5625, baseline: 6294.2158203125, advantage: -42.6533203125, penalty: 367.1875, minibatch_loss: -2.064046621322632
+batch: 47900, network_service[batch 0]: [8 7 1 6 5 5 5 2 6 7 1 7 5 2 8 3 1 7 8 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5924.21875, lagrangian: 6338.28125, baseline: 6366.3740234375, advantage: -28.0927734375, penalty: 414.0625, minibatch_loss: 0.6641152501106262
+batch: 48000, network_service[batch 0]: [2 8 4 2 7 5 1 4 3 8 6 2 1 5 7 1 5 3 8 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1. 10. 10. 10.
+ 10. 10.]", reward: 5934.375, lagrangian: 6410.9375, baseline: 6382.97509765625, advantage: 27.96240234375, penalty: 476.5625, minibatch_loss: 0.2939116060733795
+batch: 48100, network_service[batch 0]: [7 8 2 1 4 2 7 7 7 3 2 7 6 5 3 2 1 1 6 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5939.0625, lagrangian: 6407.8125, baseline: 6319.1484375, advantage: 88.6640625, penalty: 468.75, minibatch_loss: 0.08018648624420166
+batch: 48200, network_service[batch 0]: [4 6 3 5 7 2 1 6 4 7 6 7 4 5 2 3 7 7 5 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5921.09375, lagrangian: 6311.71875, baseline: 6264.416015625, advantage: 47.302734375, penalty: 390.625, minibatch_loss: -8.42503833770752
+batch: 48300, network_service[batch 0]: [4 5 6 4 2 8 7 8 5 3 5 6 3 8 3 4 2 3 3 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1.  1.
+ 10. 10.]", reward: 5966.40625, lagrangian: 6489.84375, baseline: 6419.1865234375, advantage: 70.6572265625, penalty: 523.4375, minibatch_loss: 0.05893552303314209
+batch: 48400, network_service[batch 0]: [5 2 4 8 5 6 7 2 6 2 2 4 3 3 1 8 2 6 7 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5852.34375, lagrangian: 6242.96875, baseline: 6257.044921875, advantage: -14.076171875, penalty: 390.625, minibatch_loss: -1.0012212991714478
+batch: 48500, network_service[batch 0]: [5 2 8 5 7 7 6 4 5 8 4 5 3 4 8 4 5 6 2 3]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5895.3125, lagrangian: 6418.75, baseline: 6391.21630859375, advantage: 27.53369140625, penalty: 523.4375, minibatch_loss: -3.202385902404785
+batch: 48600, network_service[batch 0]: [7 5 7 8 4 7 2 5 6 1 4 2 4 4 4 1 3 4 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5861.71875, lagrangian: 6291.40625, baseline: 6201.95703125, advantage: 89.44921875, penalty: 429.6875, minibatch_loss: -1.7237682342529297
+batch: 48700, network_service[batch 0]: [1 7 8 5 8 2 3 7 7 6 7 2 6 2 6 3 5 5 7 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5818.75, lagrangian: 6139.0625, baseline: 6229.185546875, advantage: -90.123046875, penalty: 320.3125, minibatch_loss: 0.4787602424621582
+batch: 48800, network_service[batch 0]: [2 1 1 4 5 2 2 3 4 5 7 1 3 4 5 8 7 8 2 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5932.8125, lagrangian: 6307.8125, baseline: 6320.68017578125, advantage: -12.86767578125, penalty: 375.0, minibatch_loss: -2.072547674179077
+batch: 48900, network_service[batch 0]: [8 8 1 4 2 6 6 8 2 7 4 8 3 5 3 5 7 2 3 1]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1.  1.
+ 10. 10.]", reward: 5833.59375, lagrangian: 6239.84375, baseline: 6178.9267578125, advantage: 60.9169921875, penalty: 406.25, minibatch_loss: -0.2744569778442383
+batch: 49000, network_service[batch 0]: [1 1 2 8 5 6 3 8 8 5 5 5 5 2 2 1 4 7 3 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5883.59375, lagrangian: 6336.71875, baseline: 6347.94970703125, advantage: -11.23095703125, penalty: 453.125, minibatch_loss: 2.35233211517334
+batch: 49100, network_service[batch 0]: [2 1 7 1 7 4 7 2 1 4 2 2 4 3 8 3 3 1 6 5]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5871.875, lagrangian: 6371.875, baseline: 6295.81884765625, advantage: 76.05615234375, penalty: 500.0, minibatch_loss: -2.728477954864502
+batch: 49200, network_service[batch 0]: [8 7 5 2 1 7 8 4 5 5 2 2 2 5 2 7 3 4 1 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5845.3125, lagrangian: 6204.6875, baseline: 6214.2255859375, advantage: -9.5380859375, penalty: 359.375, minibatch_loss: -2.2145988941192627
+batch: 49300, network_service[batch 0]: [2 6 5 5 5 7 5 2 5 2 2 3 3 6 8 8 2 4 6 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1.  1. 10.
+ 10. 10.]", reward: 5859.375, lagrangian: 6164.0625, baseline: 6262.81298828125, advantage: -98.75048828125, penalty: 304.6875, minibatch_loss: 1.2837355136871338
+batch: 49400, network_service[batch 0]: [2 7 7 5 4 5 7 5 7 7 4 6 3 3 4 2 1 5 4 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  1.  1. 10. 10.
+ 10. 10.]", reward: 5927.34375, lagrangian: 6310.15625, baseline: 6337.869140625, advantage: -27.712890625, penalty: 382.8125, minibatch_loss: -0.6542795896530151
+batch: 49500, network_service[batch 0]: [7 3 3 3 1 6 3 1 2 4 1 6 8 6 6 2 5 5 7 2]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5896.875, lagrangian: 6264.0625, baseline: 6285.802734375, advantage: -21.740234375, penalty: 367.1875, minibatch_loss: -1.1800458431243896
+batch: 49600, network_service[batch 0]: [5 2 1 2 8 7 7 8 5 3 2 8 8 4 8 2 4 2 3 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5868.75, lagrangian: 6212.5, baseline: 6217.021484375, advantage: -4.521484375, penalty: 343.75, minibatch_loss: 2.7335855960845947
+batch: 49700, network_service[batch 0]: [2 6 1 5 7 8 4 7 6 2 8 7 7 7 3 5 2 2 6 4]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  2.  0.  0.  0.  0.  1.  1. 10.
+ 10. 10.]", reward: 5894.53125, lagrangian: 6355.46875, baseline: 6308.658203125, advantage: 46.810546875, penalty: 460.9375, minibatch_loss: -8.765888214111328
+batch: 49800, network_service[batch 0]: [6 4 7 2 2 8 4 4 6 5 2 4 4 4 8 5 6 5 6 6]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  1.  1.  1. 10. 10.
+ 10. 10.]", reward: 5878.125, lagrangian: 6268.75, baseline: 6226.83984375, advantage: 41.91015625, penalty: 390.625, minibatch_loss: 0.31169840693473816
+batch: 49900, network_service[batch 0]: [1 3 8 1 2 7 7 8 3 1 7 6 7 6 1 5 5 2 1 7]," placement[batch 0]: [11. 11. 11. 12. 12. 12.  3.  3.  2.  2.  0.  0.  0.  0.  1.  1.  1. 10.
+ 10. 10.]", reward: 5928.125, lagrangian: 6287.5, baseline: 6281.869140625, advantage: 5.630859375, penalty: 359.375, minibatch_loss: -2.267852783203125

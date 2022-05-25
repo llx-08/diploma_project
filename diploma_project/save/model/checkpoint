@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf_placement.ckpt"
+all_model_checkpoint_paths: "tf_placement.ckpt"
